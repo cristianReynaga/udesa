@@ -1,0 +1,13 @@
+---
+layout: default
+title: Clases
+nav_order: 3
+has_children: true
+---
+# Clases
+
+Contenidos y slides de los módulos. 
+{: .fs-6 .fw-300 }
+
+![alt text](/assets/medidaspantallas.jpg "Medidas en píxeles del laboratorio")
+
