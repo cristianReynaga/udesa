@@ -35,6 +35,7 @@ Específicos
 1. [Introducción](https://www.youtube.com/watch?v=M7OrHpGRIIQ)
 2. [Exportar a DXV y Apple Pro Res LT](https://youtu.be/nLHg41mSG0k)
 3. [Efecto Glow con animación de línea](https://www.youtube.com/watch?v=XTYg3x154Qc)
+4. [Importar capas desde Adobe Illustrator](https://www.youtube.com/watch?v=pr3iQXJD-78)
 
 ### Resolume Arena
 

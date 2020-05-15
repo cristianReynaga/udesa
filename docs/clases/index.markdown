@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Clases
+title: Clases 1er semestre 2020
 nav_order: 3
 has_children: true
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Módulo 2
 nav_order: 2
-parent: Clases
+parent: Clases 1er semestre 2020
 ---
 
 ### Narrativas y propiedades de la inmersión audiovisual
@@ -10,9 +10,8 @@ parent: Clases
 ### Descripción del módulo
 
 1. Sonido, imagen y espacio en entornos inmersivos (análisis de ejemplos visuales, sonoros y audiovisuales).
-2. Operación, filtros y transformaciones en Resolume Arena.
-3. Producción de contenidos de imagen y sonido con Adobe Premiere.
-4. Proyección de contenidos. Detección de problemas y verificación de flujo de trabajo.
+2. Producción de contenidos de imagen y sonido con Adobe Premiere.
+3. Proyección de contenidos. Detección de problemas y verificación de flujo de trabajo.
 
 <br>
 

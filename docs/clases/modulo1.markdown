@@ -2,7 +2,7 @@
 layout: default
 title: Módulo 1
 nav_order: 1
-parent: Clases
+parent: Clases 1er semestre 2020
 ---
 
 ### Herramientas y recursos técnicos-tecnológicos
@@ -11,8 +11,6 @@ parent: Clases
 
 1. Circuito de producción audiovisual: de la idea a la producción.
 2. Características técnicas de la imagen digital (resoluciones, formatos, códecs).
-3. Introducción a Resolume Arena: espacios de trabajo, operación de videos y sistemas de coordenadas.
-4. Introducción a Proyecto, Capas y Clips en Resolume Arena.
 
 <br>
 
