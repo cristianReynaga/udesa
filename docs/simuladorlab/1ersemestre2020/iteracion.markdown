@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Taller de Iteración 1er semestre 2020
+title: Taller de Iteración
+parent: 1er Semestre 2020
+grand_parent: Simulador 3D
 nav_order: 1
-parent: Simulador 3D
 ---
 
 ### Taller de Iteración

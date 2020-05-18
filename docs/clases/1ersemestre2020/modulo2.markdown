@@ -2,7 +2,8 @@
 layout: default
 title: Módulo 2
 nav_order: 2
-parent: Clases 1er semestre 2020
+parent: 1er semestre 2020
+grand_parent: Clases
 ---
 
 ### Narrativas y propiedades de la inmersión audiovisual

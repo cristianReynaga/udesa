@@ -2,7 +2,8 @@
 layout: default
 title: Módulo 4
 nav_order: 4
-parent: Clases 1er semestre 2020
+parent: 1er semestre 2020
+grand_parent: Clases
 ---
 
 ### Presentación de prototipo audiovisual inmersivo

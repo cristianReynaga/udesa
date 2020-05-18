@@ -2,7 +2,8 @@
 layout: default
 title: Módulo 3
 nav_order: 3
-parent: Clases 1er semestre 2020
+parent: 1er semestre 2020
+grand_parent: Clases
 ---
 
 ### Integración práctica entre concepto y contenido

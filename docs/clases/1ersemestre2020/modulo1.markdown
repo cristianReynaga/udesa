@@ -2,7 +2,8 @@
 layout: default
 title: Módulo 1
 nav_order: 1
-parent: Clases 1er semestre 2020
+parent: 1er semestre 2020
+grand_parent: Clases
 ---
 
 ### Herramientas y recursos técnicos-tecnológicos
