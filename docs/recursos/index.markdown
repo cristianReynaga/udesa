@@ -10,8 +10,10 @@ has_toc: false
 
 ### Grillas con medidas
 
-- <a href="../../assets/grid_6036x800.png" download>Grilla 6036px x 800px con transparencia</a>
-- <a href="../../assets/grid_6036x800_colores.png" download>Grilla 6036px x 800px con colores por pared</a>
+![alt text](/assets/medidaspantallas.jpg "Medidas en píxeles del laboratorio")
+
+- <a href="../../assets/grid_6036x800.png" download>Grilla 6036px x 800px con transparencia en png</a>
+- <a href="../../assets/grid_6036x800_colores.png" download>Grilla 6036px x 800px con colores por pared en png</a>
 
 
 ### Sitios de descarga de videos y sonidos Creative Commons

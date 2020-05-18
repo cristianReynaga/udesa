@@ -9,4 +9,3 @@ has_children: true
 Contenidos y slides de los módulos. 
 {: .fs-6 .fw-300 }
 
-![alt text](/assets/medidaspantallas.jpg "Medidas en píxeles del laboratorio")

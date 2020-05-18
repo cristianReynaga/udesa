@@ -45,7 +45,7 @@ El seminario aporta al estudiante las herramientas para la creación de experien
 
 *En caso de tener alguna duda sobre las instalaciones o licencias consultar con Nicolás M.*
 
-### Bibliografía y filmografía recomendada
+## Bibliografía y filmografía recomendada
 	
 - CRUZ-DIEZ, Carlos. 1965. [Chromosaturation](http://www.cruz-diez.com/es/work/chromosaturation){:target="_blank"} Consultado 9 de abril de 2020.
 - ELIASSON, Olafur. 2014. [Map for unthought thoughts](https://olafureliasson.net/archive/artwork/WEK109201/map-for-unthought-thoughts#slideshow){:target="_blank"} Consultado 9 de abril de 2020.
