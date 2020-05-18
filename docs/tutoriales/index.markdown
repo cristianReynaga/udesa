@@ -1,16 +1,15 @@
 ---
 layout: default
 title: Tutoriales
-nav_order: 4
-has_children: true
+nav_order: 6
+has_children: false
 has_toc: false
 ---
 
 # Tutoriales
 
-
 ### Adobe Premiere
-Fundamentales <br>
+Fundamentales  
 Videotutoriales por Nicolás Mármol. Importante: acceder con cuenta UDESA.  
 <br>
 
@@ -25,7 +24,6 @@ Videotutoriales por Nicolás Mármol. Importante: acceder con cuenta UDESA.
 9. [Render y exportar](https://drive.google.com/file/d/1fAI5QDbsC7jq6U72ADrHbk6Kc_mFe7uf/view?usp=sharing)
 
 Específicos
-
 
 1. [Exportar a resolución 6036 x 800px](https://youtu.be/C7MaeI8csfA)
 2. [Exportar canales de audio a Adobe Audition](https://youtu.be/aOEPRFkVsv4)
