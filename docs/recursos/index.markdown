@@ -26,3 +26,8 @@ Audios/FX
 
 Videos
 - [videvo.net](https://www.videvo.net){:target="_blank"}
+
+
+### Software y herramientas
+
+- [Media Info](https://mediaarea.net/en/MediaInfo){:target="_blank"}
