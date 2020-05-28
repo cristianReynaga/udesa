@@ -27,7 +27,7 @@ Específicos
 
 1. [Exportar a resolución 1510 x 200px](https://www.youtube.com/watch?v=5aEQnvvi8jI){:target="_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5aEQnvvi8jI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5aEQnvvi8jI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 2. [Exportar a resolución 6036 x 800px](https://youtu.be/C7MaeI8csfA){:target="_blank"}
 3. [Exportar canales de audio a Adobe Audition](https://youtu.be/aOEPRFkVsv4){:target="_blank"}
