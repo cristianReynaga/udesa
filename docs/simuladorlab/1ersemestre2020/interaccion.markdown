@@ -37,7 +37,13 @@ Trabajos con temáticas libres
 ![alt text](/assets/gifs/ferroniclara.gif "Ferroni Clara")
 
 - [Han, Stephanie](http://udesa.cristianreynaga.com/simuladorlab/2020/1semestre/interaccion/hanstephanie.html){:target="_blank"}  
-![alt text](/assets/gifs/Han.gif "Han")
+![alt text](/assets/gifs/han.gif "Han")
 
 - [Eiras, Malena](http://udesa.cristianreynaga.com/simuladorlab/2020/1semestre/interaccion/eirasmalena.html){:target="_blank"}  
 ![alt text](/assets/gifs/eiras.gif "Eiras")
+
+- [Harismendy, Carmela](http://udesa.cristianreynaga.com/simuladorlab/2020/1semestre/interaccion/harismendycarmela.html){:target="_blank"}  
+![alt text](/assets/gifs/harismendy.gif "Harismendy")
+
+- [Ferroni, Juan Francisco](http://udesa.cristianreynaga.com/simuladorlab/2020/1semestre/interaccion/ferronijuanfrancisco.html){:target="_blank"}  
+![alt text](/assets/gifs/ferronifrancisco.gif "Ferroni Juan Francisco")
