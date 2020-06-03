@@ -47,3 +47,6 @@ Trabajos con temáticas libres
 
 - [Ferroni, Juan Francisco](http://udesa.cristianreynaga.com/simuladorlab/2020/1semestre/interaccion/ferronijuanfrancisco.html){:target="_blank"}  
 ![alt text](/assets/gifs/ferronifrancisco.gif "Ferroni Juan Francisco")
+
+- [Billoch, Inés](http://udesa.cristianreynaga.com/simuladorlab/2020/1semestre/interaccion/billochines.html){:target="_blank"}  
+![alt text](/assets/gifs/billochines.gif "Billoch")
