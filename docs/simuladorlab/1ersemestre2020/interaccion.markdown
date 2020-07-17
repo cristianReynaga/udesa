@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Taller de Interacción
+title: Interacción
 parent: 1er Semestre 2020
 grand_parent: Simulador 3D
 nav_order: 3
