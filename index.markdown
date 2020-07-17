@@ -10,7 +10,7 @@ layout: home
 Sede Campus.
 Aula Audiovisual.  
 Miércoles, horarios según comisión.  
-Profesor: [Cristian Reynaga](http://cristianreynaga.com/acercade.html).  
+Profesor: [Cristian Reynaga](http://cristianreynaga.com/acercade).  
 Contacto: creynaga@udesa.edu.ar  
 
 ## Sobre el seminario
