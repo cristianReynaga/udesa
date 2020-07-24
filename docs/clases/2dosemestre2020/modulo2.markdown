@@ -1,14 +1,18 @@
 ---
 layout: default
-title: Módulo 2
+title: 2. Componer y exportar
 nav_order: 2
-parent: 1er semestre 2020
+parent: 2do semestre 2020
 grand_parent: Clases
 ---
 
-### Narrativas y propiedades de la inmersión audiovisual
+# 2. Componer espacios y tiempos
 
 ### Descripción del módulo
+
+Imagen digital
+Keyframes
+Transiciones
 
 1. Sonido, imagen y espacio en entornos inmersivos (análisis de ejemplos visuales, sonoros y audiovisuales).
 2. Producción de contenidos de imagen y sonido con Adobe Premiere.

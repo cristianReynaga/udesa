@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Módulo 4
+title: 6. Exportar y presentar
 nav_order: 4
-parent: 1er semestre 2020
+parent: 2do semestre 2020
 grand_parent: Clases
 ---
 
-### Presentación de prototipo audiovisual inmersivo
+# Presentación de prototipo audiovisual inmersivo
 
 ### Descripción del módulo
 1. Proyección de avances y evaluaciones en grupo.

@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Cápsula Color Digital
+title: 'Cápsula: Color grading'
 nav_order: 5
-parent: 1er semestre 2020
+parent: 2do semestre 2020
 grand_parent: Clases
 ---
 
-### Análisis y ejercitación de tratamiento de color
+# Análisis y ejercitación de tratamiento de color
 
 ### Descripción de la cápsula
 1. Análisis del uso de color en la imagen en movimiento.

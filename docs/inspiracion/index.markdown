@@ -10,17 +10,17 @@ has_toc: false
 
 ### Diseñadores y Artistas
 
-- [Six n' Five](https://sixnfive.com/){:target="_blank"}  
-- [Le Cube](http://lecube.tv/){:target="_blank"}  
-- [Onformative](https://www.onformative.com/){:target="_blank"}  
-- [Andy Reisinger](https://reisinger.studio/){:target="_blank"}  
+- [Six n' Five](https://sixnfive.com/){:target="_blank"} - 3D / Motion graphics / Fotorealista / Publicidad  
+- [Le Cube](http://lecube.tv/){:target="_blank"} - 2D / Motion graphics / Ilustración / TV / Cartoon Network
+- [Onformative](https://www.onformative.com/){:target="_blank"} - Visualización de datos / Arte / Programación creativa / Instalación audiovisual
+- [Andy Reisinger](https://reisinger.studio/){:target="_blank"} - Cinema 4D / 3D / Fotorealista
 - [Julian Rosefeldt](https://www.julianrosefeldt.com/film-and-video-works/manifesto-_2014-2015/installation_views/installation-views/){:target="_blank"}  
 - [Refik Anadol](http://refikanadol.com/){:target="_blank"}  
 - [Fathom](https://fathom.info/projects/){:target="_blank"}  
 - [Nicholas Feltron](http://feltron.com/){:target="_blank"}  
 - [Casey Reas](https://reas.com/){:target="_blank"}  
 - [Bradley G Munk](https://gmunk.com/){:target="_blank"}  
-- [Nonotak](https://nonotak.com/){:target="_blank"}  
+- [Nonotak](https://nonotak.com/){:target="_blank"} - Performance / Arte / Instalación / Programación creativa
   
 
 ### Plataformas
