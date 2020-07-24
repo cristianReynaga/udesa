@@ -1,12 +1,11 @@
 ---
 layout: default
-title: 6. Exportar y presentar
-nav_order: 4
-parent: 2do semestre 2020
-grand_parent: Clases
+title: 'Cápsula: Dynamic Link'
+nav_order: 11
+parent: Clases
 ---
 
-# Presentación de prototipo audiovisual inmersivo
+# Cápsula 1: Color grading
 
 ### Descripción del módulo
 1. Proyección de avances y evaluaciones en grupo.

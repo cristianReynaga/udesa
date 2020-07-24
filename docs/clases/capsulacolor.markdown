@@ -1,9 +1,8 @@
 ---
 layout: default
 title: 'Cápsula: Color grading'
-nav_order: 5
-parent: 2do semestre 2020
-grand_parent: Clases
+nav_order: 10
+parent: Clases
 ---
 
 # Análisis y ejercitación de tratamiento de color

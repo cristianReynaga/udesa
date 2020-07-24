@@ -1,12 +1,11 @@
 ---
 layout: default
 title: 1. Herramientas y estrategias
-nav_order: 1
-parent: 2do semestre 2020
-grand_parent: Clases
+nav_order: 2
+parent: Clases
 ---
 
-# 1. Herramientas de creación
+# Herramientas de creación
 
 ### Descripción del módulo
 

@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-### Simulador 3D del Laboratorio
+# Simulador 3D del Laboratorio
 
 ![alt text](/assets/simuladorlab.jpg "Simulador 3D del laboratorio")
 

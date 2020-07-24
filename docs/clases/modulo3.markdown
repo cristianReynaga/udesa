@@ -1,12 +1,11 @@
 ---
 layout: default
 title: 3. Postproducción
-nav_order: 3
-parent: 2do semestre 2020
-grand_parent: Clases
+nav_order: 4
+parent: Clases
 ---
 
-# 3. Plan de producción
+# Plan de producción
 
 ### Descripción del módulo
 1. Proyección de avances y evaluaciones en grupo.

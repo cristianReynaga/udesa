@@ -1,12 +1,11 @@
 ---
 layout: default
-title: 'Cápsula: Dynamic link Premiere, Audition y After Effects'
-nav_order: 4
-parent: 2do semestre 2020
-grand_parent: Clases
+title: 4. Prototipo
+nav_order: 5
+parent: Clases
 ---
 
-# Cápsula 1: Color grading
+# Presentación de prototipo audiovisual inmersivo
 
 ### Descripción del módulo
 1. Proyección de avances y evaluaciones en grupo.

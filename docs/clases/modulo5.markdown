@@ -1,9 +1,8 @@
 ---
 layout: default
-title: 4. 
-nav_order: 4
-parent: 2do semestre 2020
-grand_parent: Clases
+title: 6. Exportar y presentar
+nav_order: 6
+parent: Clases
 ---
 
 # Presentación de prototipo audiovisual inmersivo

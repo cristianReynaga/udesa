@@ -1,12 +1,11 @@
 ---
 layout: default
 title: 2. Componer y exportar
-nav_order: 2
-parent: 2do semestre 2020
-grand_parent: Clases
+nav_order: 3
+parent: Clases
 ---
 
-# 2. Componer espacios y tiempos
+# Componer espacios y tiempos
 
 ### Descripción del módulo
 
