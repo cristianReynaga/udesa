@@ -27,9 +27,9 @@ has_toc: false
 ### Plataformas
 
 - [Material Design](https://material.io/design){:target="_blank"} - Framework de diseño de interfaces de Google  
-- [Processing](https://processing.org/exhibition/){:target="_blank"} - 
+- [Processing](https://processing.org/exhibition/){:target="_blank"} - Librería en Java, Python y JS de programación interactiva
 - [Creative Applications](https://www.creativeapplications.net){:target="_blank"} - 
-- [OpenFrameworks](https://openframeworks.cc){:target="_blank"} - Librería de programación interactiva  
+- [OpenFrameworks](https://openframeworks.cc){:target="_blank"} - Librería en C++ de programación interactiva 
 - [Arduino](https://create.arduino.cc/projecthub){:target="_blank"} - Hardware y lenguaje de programación para electrónica interactiva  
 - [Touch Designer](https://derivative.ca/){:target="_blank"} - Software de programación interactiva  
 
