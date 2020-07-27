@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 'Cápsula: Dynamic Link'
+title: 'Cápsula: Dynamic Link After'
 nav_order: 11
 parent: Clases
 ---
 
-# Cápsula 1: Color grading
+# Cápsula 2: After y Premiere
 
 ### Descripción del módulo
 1. Proyección de avances y evaluaciones en grupo.

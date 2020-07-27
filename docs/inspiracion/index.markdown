@@ -34,7 +34,6 @@ has_toc: false
 - [Touch Designer](https://derivative.ca/){:target="_blank"} - Software de programación interactiva  
 
 
-
 ### Festivales y proyectos
 
 - [Festival OFFF](https://offf.barcelona/){:target="_blank"}  

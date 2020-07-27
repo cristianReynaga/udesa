@@ -11,3 +11,5 @@ has_children: true
 Contenidos y slides de los módulos. 
 {: .fs-6 .fw-300 }
 
+Encuentros sincrónicos y asincrónicos.
+

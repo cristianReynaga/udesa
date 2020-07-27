@@ -14,6 +14,10 @@ parent: Clases
 
 <br>
 
+<iframe style="width: 640px; height: 360px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/cristianreynaga/embed/qCI-RogIy"></iframe>
+
+https://www.provideocoalition.com/blend_modes_in_adobe_premiere_pro/
+
 ### Análisis del uso de color en la imagen en movimiento
 
 - [Efectos del color en cine](https://vimeo.com/169046276){:target=_"blank"}

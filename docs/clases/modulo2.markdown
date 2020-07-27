@@ -27,6 +27,11 @@ Transiciones
 
 
 [Immersive](https://drive.google.com/file/d/10kfHL4HWm62UkL3fSwVnYnsubBjpBTqQ/view){:target="_blank"} de [Jeremy Oury](https://www.jeremyoury.fr/){:target="_blank"}.
+2016  
+Single screen audiovisual work  
+4K  |  2ch sound  
+Duration: 04'00"  
+Edition: 6 + 2 AP  
 
 [Artic](https://www.youtube.com/watch?v=3xjJR1U14zo){:target="_blank"} de [United Visual Artists](https://www.uva.co.uk/){:target="_blank"}
 y poema [The Farewell Glacier](http://www.nickfdrake.com/work/poetry/farewell-glacier){:target="_blank"} de Nick Drake.
