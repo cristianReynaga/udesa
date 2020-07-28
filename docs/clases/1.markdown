@@ -49,7 +49,7 @@ Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen
 3. Elegir la opción **Propiedades** y allí veremos la ubicación del archivo, el formato (.mp4, .mov, etc.), el tamaño de la imagen (resolución), cuadros por segundo y el códec (ya ahondaremos en esto).
 
 <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/SL0sBeyhI4s" height="315" width="560" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <iframe src="https://www.youtube.com/embed/SL0sBeyhI4s" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
 
@@ -115,14 +115,14 @@ Nuestra secuencia creada es de 6036px x 800px, pero es posible exportar con otra
   5. Cuadros por segundo
 
 <div class="video-container">
-    <iframe src="https://drive.google.com/file/d/13mLcJJo3GP-fnWMcIE5e60SfTz3XWtGx/preview" height="315" width="560" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <iframe src="https://drive.google.com/file/d/13mLcJJo3GP-fnWMcIE5e60SfTz3XWtGx/preview" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
 
 ## Parte 3: Circuito de producción audiovisual: de la idea a la producción
 
 <div class="video-container">
-    <iframe src="https://drive.google.com/file/d/1i7h7xELv74lpKglxUQgZICGJJWtbL8bO/preview" height="315" width="560" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <iframe src="https://drive.google.com/file/d/1i7h7xELv74lpKglxUQgZICGJJWtbL8bO/preview" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
 
