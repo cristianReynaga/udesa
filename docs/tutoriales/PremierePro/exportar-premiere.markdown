@@ -3,7 +3,7 @@ layout: default
 title: Exportar en Premiere Pro
 parent: Premiere Pro
 grand_parent: Tutoriales
-nav_order: 2
+nav_order: 3
 has_children: false
 ---
 
@@ -42,15 +42,22 @@ Es importante consultar para cada situación de exhibición con qué dispositivo
 
 Exportar a formato .mp4 con códec .h264 en resolución 1510 x 200px
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/loU0AEbsef0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/loU0AEbsef0" height="315" width="560" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+
 
 ## Parte 3: Exportar para la pantalla 270  
 
 Exportar a formato .mov con códec DXV3 en resolución 6036 x 800px.
 
-### IMPORTANTE: 
-Para exportar con el códec DXV3 es necesario instalar antes Resolume Arena y/o Alley. Esto nos instalará automáticamente el códec DXV3 que no es standard y sólo se usa con el sistema de la pantalla 270.
+**IMPORTANTE:** 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/44AxXSpLraw" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Para exportar con el códec DXV3 es necesario instalar antes Resolume Arena y/o Resolume Alley. Esto nos instalará automáticamente el códec DXV3 que no es standard y sólo se usa con el sistema de la pantalla 270.
 
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/44AxXSpLraw" height="315" width="560" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
 

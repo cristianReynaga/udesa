@@ -8,32 +8,35 @@ parent: Clases
 # Clase 1: Edición y producción
 {: .no_toc }
 
-Encuentro sincrónico de 1:40h de duración.  
+Introducción al proceso de edición en Adobe Premiere y análisis de referencias. Encuentro sincrónico de 1:40h de duración.  
 
-## Requerimientos 
+**Requerimientos**
 {: .no_toc }
 
 - Instalar Adobe Premiere y [Media Info](https://mediaarea.net/en/MediaInfo){:target="_blank"} en una laptop o desktop  
 - Ver y ejercitar con los tutoriales de [Adobe Premiere fundamentales](../tutoriales/PremierePro). Tiempo estimado: 30 minutos.  
 
-## Descripción del módulo  
-{: .no_toc }
+**Objetivo**  
+
+Crear una escena, inspeccionar el material a utilizar (propio o descargado), insertar en línea de tiempo y exportar.
+
+**Contenidos de la clase**  
 
 - TOC
 {:toc}
 
 
-## Objetivo  
-{: .no_toc }
 
-Crear una escena, inspeccionar el material a utilizar (propio o descargado), insertar en línea de tiempo y exportar.
 
-## Parte 1. El proceso de edición de video  
+---
+
+## Parte 1: El proceso de edición de video  
 **Paso 1. Repaso al workflow de edición**
 
+<br>
 ![alt text](../../../assets/workflow_premiere.jpg "worflow de edición")
 
-En este esquema vemos 4 etapas típicas de la edición en cualquier editor de video. Luego de elegir qué videos, fotos o archivos sonoros queremos utilizar, los importamos en nuestro proyecto. La secuencia que debemos crear tiene que considerar el formato de salida: si queremos crear un video para una resolución específica, si es para redes sociales u otro formato. Los primeros parámetros a considerar de nuestro footage, y que impactará en la decisión sobre cómo configurar nuestra secuencia, son: **resolución, cuadros por segundo y formato**. 
+En este esquema vemos **4 etapas** típicas de la edición en cualquier editor de video. Luego de elegir qué videos, fotos o archivos sonoros queremos utilizar, los importamos en nuestro proyecto. La secuencia que debemos crear tiene que considerar el formato de salida: si queremos crear un video para una resolución específica, si es para redes sociales u otro formato. Los primeros parámetros a considerar de nuestro footage, y que impactará en la decisión sobre cómo configurar nuestra secuencia, son: **resolución, cuadros por segundo y formato**. 
 
 **Paso 2. Inspeccionar el material**
 
@@ -45,7 +48,12 @@ Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen
 2. Click derecho sobre el clip.
 3. Elegir la opción **Propiedades** y allí veremos la ubicación del archivo, el formato (.mp4, .mov, etc.), el tamaño de la imagen (resolución), cuadros por segundo y el códec (ya ahondaremos en esto).
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/SL0sBeyhI4s" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/SL0sBeyhI4s" height="315" width="560" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+
+<!-- <iframe width="100%" height="400px" position="absolute" src="https://www.youtube.com/embed/SL0sBeyhI4s" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
  
 Teniendo inspeccionado todo nuestro footage podremos saber si será necesario escalar la resolución o si algún material tiene una resolución muy inferior, o es de un formato inadecuado para descartarlo.  
 
@@ -75,35 +83,30 @@ Teniendo en cuenta estos tres ejemplos podemos pensar, antes de editar, qué qu�
 
 **Paso 4. Crear secuencia.**
 
-En este paso tenemos que definir cómo será nuestro espacio de trabajo y que luego impactará en cómo exportaremos nuestros videos. Lo que en otros softwares se conoce como _canvas_ o _artboard_, en Premiere se llama _secuencia_. Para crear una secuencia que sirva para la proyección 270 del laboratorio y el simulador seguis las indicaciones:
+En este paso tenemos que definir cómo será nuestro espacio de trabajo y que luego impactará en cómo exportaremos nuestros videos. Lo que en otros softwares se conoce como _canvas_ o _artboard_, en Premiere se llama _secuencia_. Para crear una secuencia que sirva para la proyección 270 del laboratorio y el simulador seguir las indicaciones:
 
-1. Ir a **Panel de Proyecto**
-2. Click derecho sobre cualquier lugar del panel.
-3. Elegir la opción **Nuevo ítem/Secuencia** y veremos el panel de crear secuencia.
-4. Ir a la segunda solapa **Settings*.
-5. Modificar los valores:
-- [ ] Resolución: 6036 x 800px
-- [ ] Frame rate: 24 fps
-- [ ] Relación de aspecto de píxeles: 1.0
-- [ ] Campos: video progresivo
-- [ ] Sample rate de audio: 48000Hz  
+<span class="fs-3">
+[Ver tutorial "Crear secuencia en Premiere"](../tutoriales/PremierePro/crear-secuencia-premiere.html){: .btn target="_blank" }
+</span>
 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/EOvCsHhfBdo" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**Paso 5. Insertar medios en línea de tiempo.**
 
-<br> 
+<span class="fs-3">
+[Ver tutorial "Insertar medios en Premiere"](https://drive.google.com/file/d/1GQPk-bBxnimf5fLcSUnoSkHOG0N8NTTW/view?usp=sharing){: .btn target="_blank" }
+</span>
 
-**Paso 4. Exportar secuencia.**
+**Paso 6. Exportar secuencia.**
 
 El paso de exportar es convertir la línea de tiempo de nuestra secuencia en un archivo de video que pueda ser reproducido en cualquier reproductor multimedia (VLC, Quicktime), ya que nuestro proyecto de Premiere sólo puede ser visualizado instalando el programa. Hasta que no exportemos nuestro proyecto en un archivo de video no podremos compartirlo.
 
 Nuestra secuencia creada es de 6036px x 800px, pero es posible exportar con otras resoluciones. Si sabemos que una secuencia tendrá distintas exportaciones a distintas medidas, lo mejor es crear una secuencia con la mayor resolución posible ya que si hacemos exports más pequeños no perdemos resolución. En el caso contrario, si creamos una secuencia pequeña, cuando exportemos a mayor resolución vamos a perder definición.
 
-[Ver tutorial "Exportar en Premiere"](../tutoriales/PremierePro/exportar-premiere.html){:target="_blank"}  
+<span class="fs-3">
+[Ver tutorial "Exportar en Premiere"](../tutoriales/PremierePro/exportar-premiere.html){: .btn target="_blank" }
+</span>
 
-
-## Parte 2. Características técnicas de la imagen digital. Capítulo 1.
-
+## Parte 2: Características técnicas de la imagen digital. Capítulo 1.
 
   1. Formatos
   2. Códecs
@@ -111,14 +114,20 @@ Nuestra secuencia creada es de 6036px x 800px, pero es posible exportar con otra
   4. Compresión
   5. Cuadros por segundo
 
+<div class="video-container">
+    <iframe src="https://drive.google.com/file/d/13mLcJJo3GP-fnWMcIE5e60SfTz3XWtGx/preview" height="315" width="560" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+
+## Parte 3: Circuito de producción audiovisual: de la idea a la producción
+
+<div class="video-container">
+    <iframe src="https://drive.google.com/file/d/1i7h7xELv74lpKglxUQgZICGJJWtbL8bO/preview" height="315" width="560" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
 
 
-## Parte 3. Circuito de producción audiovisual: de la idea a la producción
-
-
-<iframe src="https://drive.google.com/file/d/1i7h7xELv74lpKglxUQgZICGJJWtbL8bO/preview" width="100%" height="600"></iframe>
-
-## Parte 4. Ejercitación
+## Parte 4: Ejercitación
 
 Utilizando material propio y de los sitios recomendados para la descarga de imágenes y sonidos, realizar una composición audiovisual que será entregado en Drive a determinar. 
 Duración estimada: 1 hora.
