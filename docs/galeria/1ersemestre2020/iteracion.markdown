@@ -2,11 +2,11 @@
 layout: default
 title: Iteración
 parent: 1er Semestre 2020
-grand_parent: Simulador 3D
+grand_parent: Galería
 nav_order: 1
 ---
 
-### Taller de Iteración
+# Taller de Iteración
 
 **Especificaciones cubo**
 

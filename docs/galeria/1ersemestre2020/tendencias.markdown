@@ -2,11 +2,11 @@
 layout: default
 title: Estudio de Tendencias
 parent: 1er Semestre 2020
-grand_parent: Simulador 3D
+grand_parent: Galería
 nav_order: 6
 ---
 
-### Estudio de Tendencias  
+# Estudio de Tendencias  
 
 Profesora: Laura Novik  
 

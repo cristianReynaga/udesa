@@ -5,15 +5,9 @@ nav_order: 4
 parent: Clases
 ---
 
-# Plan de producción
+# Clase 3. Postproducción
 
 ### Descripción del módulo
-1. Proyección de avances y evaluaciones en grupo.
-2. Reproducción de sonido estéreo.
-3. Análisis de tipografías, colores, escalas y potencia sonora en Laboratorio.
-
-<br>
-
-### Presentación Módulo 3
-
-próximamente
+1. Sincronía sonido e imagen
+2. Animación de gráficos y textos
+3. Ajustes de color y mezcla de sonidos en Premiere

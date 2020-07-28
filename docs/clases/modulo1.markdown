@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 1. Herramientas y estrategias
+title: 1. Edición y producción
 nav_order: 2
 parent: Clases
 ---
 
-# Clase 1: Herramientas y estrategias
+# Clase 1: Edición y producción
 {: .no_toc }
 
 Encuentro sincrónico de 1:40h de duración.  
@@ -13,8 +13,8 @@ Encuentro sincrónico de 1:40h de duración.
 ## Requerimientos 
 {: .no_toc }
 
-✔ tener instalado Adobe Premiere y [Media Info](https://mediaarea.net/en/MediaInfo){:target="_blank"} en una laptop o desktop  
-✔ ver y ejercitar con los tutoriales de [Adobe Premiere fundamentales](../tutoriales/PremierePro). Tiempo estimado: 30 minutos.  
+- Instalar Adobe Premiere y [Media Info](https://mediaarea.net/en/MediaInfo){:target="_blank"} en una laptop o desktop  
+- Ver y ejercitar con los tutoriales de [Adobe Premiere fundamentales](../tutoriales/PremierePro). Tiempo estimado: 30 minutos.  
 
 ## Descripción del módulo  
 {: .no_toc }
@@ -33,7 +33,7 @@ Crear una escena, inspeccionar el material a utilizar (propio o descargado), ins
 
 ![alt text](../../../assets/workflow_premiere.jpg "worflow de edición")
 
-En este esquema vemos 4 etapas típicas de la edición en cualquier editor de video. Luego de elegir qué videos, fotos o archivos sonoros queremos utilizar, los importamos en nuestro proyecto. La secuencia que debemos crear tiene que considerar el formato de salida: si queremos crear un video para una resolución específica, si es para redes sociales u otro formato. Los primeros parámetros a considerar de nuestro footage, y que impactará en la decisión sobre cómo configurar nuestra secuencia, son: resolución, cuadros por segundo y formato. 
+En este esquema vemos 4 etapas típicas de la edición en cualquier editor de video. Luego de elegir qué videos, fotos o archivos sonoros queremos utilizar, los importamos en nuestro proyecto. La secuencia que debemos crear tiene que considerar el formato de salida: si queremos crear un video para una resolución específica, si es para redes sociales u otro formato. Los primeros parámetros a considerar de nuestro footage, y que impactará en la decisión sobre cómo configurar nuestra secuencia, son: **resolución, cuadros por segundo y formato**. 
 
 **Paso 2. Inspeccionar el material**
 
@@ -41,11 +41,11 @@ La mejor forma de conocer nuestros assets es visualizar sus Propiedades una vez 
 
 Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen las mejores cualidades para editar video sin tanta compresión como otros tipos de archivos. En el caso de imágenes pueden ser .jpg, .png y en el caso de sonidos .wav y .aif como mejores opciones.
 
-1. Ir a **Panel de Proyecto**
+1. Ir a **Panel de Proyecto**.
 2. Click derecho sobre el clip.
 3. Elegir la opción **Propiedades** y allí veremos la ubicación del archivo, el formato (.mp4, .mov, etc.), el tamaño de la imagen (resolución), cuadros por segundo y el códec (ya ahondaremos en esto).
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/Extlqc-uKvA" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/SL0sBeyhI4s" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 Teniendo inspeccionado todo nuestro footage podremos saber si será necesario escalar la resolución o si algún material tiene una resolución muy inferior, o es de un formato inadecuado para descartarlo.  
 
@@ -89,8 +89,9 @@ En este paso tenemos que definir cómo será nuestro espacio de trabajo y que lu
 - [ ] Sample rate de audio: 48000Hz  
 
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/byIVncKI7ro" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/EOvCsHhfBdo" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br> 
 
 **Paso 4. Exportar secuencia.**
 
@@ -111,20 +112,13 @@ Nuestra secuencia creada es de 6036px x 800px, pero es posible exportar con otra
   5. Cuadros por segundo
 
 
-## Parte 3. Lenguaje técnico y elementos de la producción audiovisual (tipos de guiones)
 
-<!-- https://community.dur.ac.uk/m.p.thompson/filmterms.htm
+## Parte 3. Circuito de producción audiovisual: de la idea a la producción
 
-https://nofilmschool.com/camera-angles-and-shots-movements
 
-https://www.bloopanimation.com/sound-design/
+<iframe src="https://drive.google.com/file/d/1i7h7xELv74lpKglxUQgZICGJJWtbL8bO/preview" width="100%" height="600"></iframe>
 
-https://filmasatext.wordpress.com/students/technical-aspects-of-film-study/ -->
-
-## Parte 4. Circuito de producción audiovisual: de la idea a la producción
-  1. Herramientas para el trabajo remoto
-
-## Parte 5. Ejercitación
+## Parte 4. Ejercitación
 
 Utilizando material propio y de los sitios recomendados para la descarga de imágenes y sonidos, realizar una composición audiovisual que será entregado en Drive a determinar. 
 Duración estimada: 1 hora.
@@ -169,6 +163,6 @@ Duración estimada: 1 hora.
 
 
 
-<!--iframe src="https://drive.google.com/file/d/1i7h7xELv74lpKglxUQgZICGJJWtbL8bO/preview" width="100%" height="600"></iframe>
 
-<iframe src="https://drive.google.com/file/d/13mLcJJo3GP-fnWMcIE5e60SfTz3XWtGx/preview" width="100%" height="600"></iframe><br>-->
+
+<!--<iframe src="https://drive.google.com/file/d/13mLcJJo3GP-fnWMcIE5e60SfTz3XWtGx/preview" width="100%" height="600"></iframe><br>-->

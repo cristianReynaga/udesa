@@ -2,11 +2,11 @@
 layout: default
 title: Arte contemporáneo, medios y diseño expandido
 parent: 1er Semestre 2020
-grand_parent: Simulador 3D
+grand_parent: Galería
 nav_order: 5
 ---
 
-### Seminario Arte contemporáneo, medios y diseño expandido
+# Seminario Arte contemporáneo, medios y diseño expandido
 
 
 #### Simuladores

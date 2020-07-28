@@ -34,10 +34,10 @@ Se asignan breves ejercitaciones con entregas semanales para ejercitar las aptit
 ## Módulos del seminario
 El curso se estructura en los siguientes módulos:
 
-1. Herramientas y recursos técnicos-tecnológicos.  
-2. Narrativas y propiedades de la inmersión audiovisual.  
-3. Integración práctica entre concepto y contenido. 
-4. Presentación de prototipo audiovisual inmersivo.  
+1. Edición y producción  
+2. Composición, espacio y tiempo    
+3. Postproducción 
+4. Presentación en laboratorio o simulador  
 
 <span class="fs-3">
 [Ir a módulos](../clases){: .btn  }

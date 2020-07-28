@@ -12,9 +12,8 @@ parent: Clases
 2. Introducción a herramientas de postproducción de color con Lumetri.
 3. Ejercitación en Adobe Premiere con la herramienta Lumetri.
 
-<br>
+<iframe style="width: 640px; height: 360px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/cristianreynaga/embed/NRrqOBY3w"></iframe>
 
-<iframe style="width: 640px; height: 360px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/cristianreynaga/embed/qCI-RogIy"></iframe>
 
 https://www.provideocoalition.com/blend_modes_in_adobe_premiere_pro/
 

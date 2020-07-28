@@ -2,15 +2,12 @@
 layout: default
 title: Sustentabilidad
 parent: 1er Semestre 2020
-grand_parent: Simulador 3D
+grand_parent: Galería
 nav_order: 2
 ---
 
-### Taller de Sustentabilidad
+# Taller de Sustentabilidad
 
-**Especificaciones adicionales**
-
-a confirmar.
 
 #### Simuladores por grupos
 

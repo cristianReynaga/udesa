@@ -2,11 +2,11 @@
 layout: default
 title: Prospectiva
 parent: 1er Semestre 2020
-grand_parent: Simulador 3D
+grand_parent: Galería
 nav_order: 4
 ---
 
-### Taller de Prospectiva  
+# Taller de Prospectiva  
 
 #### Simuladores por grupos  
 
