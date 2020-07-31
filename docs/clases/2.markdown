@@ -1,0 +1,42 @@
+---
+layout: default
+title: 2. Composición, espacio y tiempo
+nav_order: 3
+parent: Clases
+---
+
+# Clase 2. Composición, espacio y tiempo
+
+### Descripción del módulo
+
+Sistema de coordenadas  
+Imagen digital  
+Keyframes  
+Transiciones  
+
+1. Sonido, imagen y espacio en entornos inmersivos (análisis de ejemplos visuales, sonoros y audiovisuales).
+2. Producción de contenidos de imagen y sonido con Adobe Premiere.
+3. Proyección de contenidos. Detección de problemas y verificación de flujo de trabajo.
+
+<br>
+
+### Presentación Módulo 2
+
+[**Ver simulador**](http://udesa.cristianreynaga.com/simulador_sustentabilidad_r115/){:target="_blank"}
+
+**Referencias en entornos inmersivos (usar auriculares)**
+
+
+
+
+
+## Visualización en clase
+{: .no_toc }
+
+- [Immersive](https://drive.google.com/file/d/10kfHL4HWm62UkL3fSwVnYnsubBjpBTqQ/view){:target="_blank"} de [Jeremy Oury](https://www.jeremyoury.fr/)
+- [Artic](https://www.youtube.com/watch?v=3xjJR1U14zo){:target="_blank"} de [United Visual Artists](https://www.uva.co.uk/){:target="_blank"}
+y poema [The Farewell Glacier](http://www.nickfdrake.com/work/poetry/farewell-glacier){:target="_blank"} de Nick Drake.
+- [Sim Nebula Part V: New World](https://nohlab.com/work/sim-nebula) de [NOHLab](https://nohlab.com/){:target="_blank"}
+
+## Lecturas recomendadas
+{: .no_toc }

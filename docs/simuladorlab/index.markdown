@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Simulador 3D 
-nav_order: 4
-has_children: true
+nav_order: 3
+has_children: false
 ---
 
 # Simulador 3D del Laboratorio
@@ -12,10 +12,6 @@ has_children: true
 
 <iframe width="100%" height="400px" src="http://udesa.cristianreynaga.com/simuladorlab/2020/1semestre/artecontemporaneo/han.html" frameborder="0" allowfullscreen></iframe>
 
-<span class="fs-3">
-[Entrar a simulador](http://udesa.cristianreynaga.com/simuladorlab){: .btn .btn-blue }
-</span>
-<br>
 
 El simulador permite la reproducción de audio stéreo y video con la misma relación de aspecto que el laboratorio. Por razones de eficiencia la resolución y códec son distintas. Esto no significa realizar ningún cambio de escala o proporción en el proceso de producción sino que sólo es necesario especificar la resolución de salida al momento de exportar el video final.
 
@@ -34,4 +30,7 @@ El simulador permite la reproducción de audio stéreo y video con la misma rela
 - **Nombre de archivo: apellidoNombre.mp4**
 
 
-
+<span class="fs-3">
+[Ver entregas 1er semestre 2020](http://udesa.cristianreynaga.com/simuladorlab){: .btn .btn-blue }
+</span>
+<br>

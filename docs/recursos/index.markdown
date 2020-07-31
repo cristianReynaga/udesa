@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recursos
-nav_order: 5
+nav_order: 4
 has_children: false
 has_toc: false
 ---
@@ -13,12 +13,16 @@ has_toc: false
 
 
 
-- <a href="../../assets/grid_6036x800.png" download>Medidas en píxeles de laboratorio y simulador 📥</a> 
-- <a href="../../assets/grid_6036x800.png" download>Medidas en metros de laboratorio 📥</a>
-- <a href="../../assets/grid_6036x800.png" download>Grilla 6036px x 800px con transparencia en png 📥</a> 
-- <a href="../../assets/grid_6036x800_colores.png" download>Grilla 6036px x 800px con colores por pared en png 📥</a>
+- Medidas en píxeles de laboratorio.<a href="../../assets/medidaspantallas.jpg" download> Descargar 📥</a> 
+![alt text](/assets/cotas_270.png "Medidas en píxeles del laboratorio")  
 
-![alt text](/assets/medidaspantallas.jpg "Medidas en píxeles del laboratorio")  
+<!-- - <a href="../../assets/grid_6036x800.png" download>Medidas en metros de laboratorio 📥</a> -->
+
+- Grilla 6036px x 800px con transparencia.<a href="../../assets/grid_6036x800.png" download> Descargar 📥</a>  
+![alt text](/assets/grid_6036x800.png "Medidas en píxeles del laboratorio")  
+
+- Grilla 6036px x 800px con colores por pared.<a href="../../assets/grid_6036x800_colores.png" download> Descargar 📥</a>  
+![alt text](/assets/grid_6036x800_colores.png "Medidas en píxeles del laboratorio")  
 
 
 ### Plataformas con videos y sonidos descargables Creative Commons

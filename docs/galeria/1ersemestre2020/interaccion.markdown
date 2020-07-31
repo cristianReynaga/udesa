@@ -2,11 +2,11 @@
 layout: default
 title: Interacción
 parent: 1er Semestre 2020
-grand_parent: Simulador 3D
+grand_parent: Galería
 nav_order: 3
 ---
 
-### Taller de Interacción
+# Taller de Interacción
 
 Trabajos con temáticas libres  
 
