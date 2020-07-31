@@ -8,12 +8,10 @@ parent: Clases
 # Clase 1: Herramientas y estrategias
 {: .no_toc }
 
-Encuentro sincrónico de 1:40h de duración.  
-
 ## Requerimientos 
 {: .no_toc }
 
-✔️ tener instalado Adobe Premiere y [Media Info](https://mediaarea.net/en/MediaInfo){:target="_blank"} en una laptop o desktop  
+✔️ tener instalado Adobe Premiere o Da Vinci Resolve y [Media Info](https://mediaarea.net/en/MediaInfo){:target="_blank"} en una laptop o desktop  
 ✔️ ver y ejercitar con los tutoriales de [Adobe Premiere fundamentales](../tutoriales/PremierePro). Tiempo estimado: 30 minutos.  
 
 ## Descripción del módulo  
