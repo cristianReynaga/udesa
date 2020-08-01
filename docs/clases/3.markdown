@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 3. Postproducción
-nav_order: 4
-parent: Clases
+nav_exclude: true
+categoria: clases
 ---
 
 # Clase 3. Postproducción

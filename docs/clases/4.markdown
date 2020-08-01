@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 4. Presentación en laboratorio
-nav_order: 5
-parent: Clases
+nav_exclude: true
+categoria: clases
 ---
 
 # Clase 4. Presentación en laboratorio

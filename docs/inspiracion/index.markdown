@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Inspiración
-nav_order: 6
+nav_order: 5
 has_children: false
 has_toc: false
 ---

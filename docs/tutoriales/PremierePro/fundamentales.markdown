@@ -3,7 +3,8 @@ layout: default
 title: Fundamentales
 parent: Premiere Pro
 grand_parent: Tutoriales
-nav_order: 1
+tutorial: Premiere
+nav_exclude: true
 has_children: false
 ---
 

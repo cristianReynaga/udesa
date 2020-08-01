@@ -3,7 +3,8 @@ layout: default
 title: Exportar en Premiere Pro
 parent: Premiere Pro
 grand_parent: Tutoriales
-nav_order: 3
+tutorial: Premiere
+nav_exclude: true
 has_children: false
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 1. Edición y producción
-nav_order: 2
-parent: Clases
+nav_exclude: true
+categoria: clases
 ---
 
 # Clase 1: Edición y producción
@@ -14,7 +14,7 @@ Introducción al proceso de edición en Adobe Premiere y análisis de referencia
 {: .no_toc }
 
 - Instalar Adobe Premiere y [Media Info](https://mediaarea.net/en/MediaInfo){:target="_blank"} en una laptop o desktop  
-- Ver y ejercitar con los tutoriales de [Adobe Premiere fundamentales](../tutoriales/PremierePro). Tiempo estimado: 30 minutos.  
+- Ver y ejercitar con los tutoriales de [Adobe Premiere fundamentales](../tutoriales/PremierePro/fundamentales.html). Tiempo estimado: 30 minutos.  
 
 **Objetivo**  
 
@@ -24,9 +24,6 @@ Crear una escena, inspeccionar el material a utilizar (propio o descargado), ins
 
 - TOC
 {:toc}
-
-
-
 
 ---
 
@@ -40,7 +37,7 @@ En este esquema vemos **4 etapas** típicas de la edición en cualquier editor d
 
 **Paso 2. Inspeccionar el material**
 
-La mejor forma de conocer nuestros assets es visualizar sus Propiedades una vez importados en Adobe Premiere. Tenemos que conocer el formato, resolución y cuadros por segundo de cada uno de ellos para elegir la mejor configuración para nuestra secuencia.  
+La mejor forma de conocer nuestros assets es visualizar sus Propiedades una vez importados en Adobe Premiere. Tenemos que conocer la **resolución, los cuadros por segundo y el formato** de cada uno de ellos para elegir la mejor configuración para nuestra secuencia.  
 
 Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen las mejores cualidades para editar video sin tanta compresión como otros tipos de archivos. En el caso de imágenes pueden ser .jpg, .png y en el caso de sonidos .wav y .aif como mejores opciones.
 
@@ -53,11 +50,29 @@ Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen
     </iframe>
 </div>
 
-<!-- <iframe width="100%" height="400px" position="absolute" src="https://www.youtube.com/embed/SL0sBeyhI4s" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
- 
 Teniendo inspeccionado todo nuestro footage podremos saber si será necesario escalar la resolución o si algún material tiene una resolución muy inferior, o es de un formato inadecuado para descartarlo.  
 
-**Paso 3. El tratamiento de nuestra pieza.**
+**Paso 3. Criterios luego de inspeccionar nuestro material**
+
+Pudimos ver información de cada archivo, cómo entender esta información? Para profundizar sobre esto [ver cápsula "Imagen digital"](../clases/capsula-imagendigital.html).  
+
+Para sintetizar deberíamos elegir los archivos que tengan:
+1. la mayor resolución posible para no tener problemas de degradación de la imagen si necesitamos escalar
+2. los mismos cuadros por segundo o _frames per second_ (al menos 24), o que estén en un rango entre 24 y 30
+3. la menor cantidad de formatos distintos, intentando que todos sean o .mov o .mp4.
+
+**y evitar:**
+- .avi
+- .kmv
+- .webm
+- .flv
+- .ogg
+- .wmv
+- .3gp 
+{:.text-red-300}
+
+
+**Paso 4. El tratamiento de nuestra pieza.**
 
 La etapa de edición es donde plasmamos nuestras ideas en conjunto con el material disponible para que sea único y lo más fiel posible a nuestras intenciones. Es importante saber que cada editor puede darle una marca personal distinta al mismo material ya que en esta etapa entran muchas decisiones en juego.  
 
@@ -81,7 +96,7 @@ Una forma sencilla de entender cómo nos relacionamos con un contenido es mencio
 
 Teniendo en cuenta estos tres ejemplos podemos pensar, antes de editar, qué quéremos contar y cómo utilizar el material que tenemos, o qué material es necesario producir para alcanzar un montaje audiovisual que refleje nuestra intención.
 
-**Paso 4. Crear secuencia.**
+**Paso 5. Crear secuencia.**
 
 En este paso tenemos que definir cómo será nuestro espacio de trabajo y que luego impactará en cómo exportaremos nuestros videos. Lo que en otros softwares se conoce como _canvas_ o _artboard_, en Premiere se llama _secuencia_. Para crear una secuencia que sirva para la proyección 270 del laboratorio y el simulador seguir las indicaciones:
 
@@ -90,13 +105,13 @@ En este paso tenemos que definir cómo será nuestro espacio de trabajo y que lu
 </span>
 
 
-**Paso 5. Insertar medios en línea de tiempo.**
+**Paso 6. Insertar medios en línea de tiempo.**
 
 <span class="fs-3">
 [Ver tutorial "Insertar medios en Premiere"](https://drive.google.com/file/d/1GQPk-bBxnimf5fLcSUnoSkHOG0N8NTTW/view?usp=sharing){: .btn target="_blank" }
 </span>
 
-**Paso 6. Exportar secuencia.**
+**Paso 7. Exportar secuencia.**
 
 El paso de exportar es convertir la línea de tiempo de nuestra secuencia en un archivo de video que pueda ser reproducido en cualquier reproductor multimedia (VLC, Quicktime), ya que nuestro proyecto de Premiere sólo puede ser visualizado instalando el programa. Hasta que no exportemos nuestro proyecto en un archivo de video no podremos compartirlo.
 
@@ -107,6 +122,8 @@ Nuestra secuencia creada es de 6036px x 800px, pero es posible exportar con otra
 </span>
 
 ## Parte 2: Características técnicas de la imagen digital. Capítulo 1.
+
+
 
   1. Formatos
   2. Códecs

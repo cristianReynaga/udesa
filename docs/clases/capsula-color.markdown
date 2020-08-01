@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 'Cápsula: Color grading'
-nav_order: 10
-parent: Clases
+nav_exclude: true
+categoria: capsula
 ---
 
 # Análisis y ejercitación de tratamiento de color

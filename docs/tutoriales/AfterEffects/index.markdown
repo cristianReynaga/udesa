@@ -1,15 +1,19 @@
 ---
 layout: default
 title: After Effects
-has_children: false
 parent: Tutoriales
-nav_order: 3
+nav_order: 2
+has_children: false
 ---
 
 # After Effects
 
-1. [Introducción](https://www.youtube.com/watch?v=M7OrHpGRIIQ){:target="_blank"}
-2. [Exportar a DXV y Apple Pro Res LT](https://youtu.be/nLHg41mSG0k){:target="_blank"}
-3. [Efecto Glow con animación de línea](https://www.youtube.com/watch?v=XTYg3x154Qc){:target="_blank"}
-4. [Importar capas desde Adobe Illustrator](https://www.youtube.com/watch?v=pr3iQXJD-78){:target="_blank"}
-    - <a href="../../assets/assets_tutoriales/layers_fichatecnica.ai" download>Archivo Illustrator de ejemplo para descargar</a>
+<ul class="pages">
+  {% for page in site.pages %}
+  {% if page.tutorial == "After" %}
+
+      <!-- <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li> -->
+       <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+   {% endif %}
+      {% endfor %}
+</ul>

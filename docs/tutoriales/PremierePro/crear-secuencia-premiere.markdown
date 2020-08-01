@@ -3,7 +3,8 @@ layout: default
 title: Crear secuencia
 parent: Premiere Pro
 grand_parent: Tutoriales
-nav_order: 2
+tutorial: Premiere
+nav_exclude: true
 has_children: false
 ---
 

@@ -3,8 +3,9 @@ layout: default
 title: Capas de ajuste
 parent: Premiere Pro
 grand_parent: Tutoriales
-nav_order: 3
+nav_exclude: true
 has_children: false
+tutorial: Premiere
 ---
 
 # Capas de ajuste en Adobe Premiere Pro
