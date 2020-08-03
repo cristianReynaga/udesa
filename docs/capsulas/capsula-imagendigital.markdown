@@ -1,16 +1,21 @@
 ---
 layout: default
-title: 'Cápsula: Imagen digital'
+title: 'Imagen digital. Aspectos técnicos'
 nav_exclude: true
 categoria: capsula
 ---
 
-# Imagen digital
+# {{ page.title }}
+{: .no_toc }  
 
-### Descripción de la cápsula
-1. Análisis del uso de color en la imagen en movimiento.
-2. Introducción a herramientas de postproducción de color con Lumetri.
-3. Ejercitación en Adobe Premiere con la herramienta Lumetri.
+**Contenidos de la cápsula**  
+
+- TOC
+{:toc}
+
+---
+
+## Parte 1: Particularidades de la imagen digital.
 
 La resolución de un archivo, tanto de imagen fija como de una imagen en movimiento es la medida en sus dos dimensiones: ancho y alto. Suele confundirse con "calidad" o "definición", pero es importante que no estamos hablando de cualidades subjetivas, sino objetivas. La resolución de una imagen es fija y se mide en píxeles. Hay distintos estándares de resoluciones según el dispositivo o reproducto en que se presenta, y es importante atender a las particularidades de cada uno para aprovechar al máximo sus especificaciones.
 

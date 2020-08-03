@@ -39,7 +39,7 @@ En este esquema vemos **4 etapas** típicas de la edición en cualquier editor d
 
 La mejor forma de conocer nuestros assets es visualizar sus Propiedades una vez importados en Adobe Premiere. Tenemos que conocer la **resolución, los cuadros por segundo y el formato** de cada uno de ellos para elegir la mejor configuración para nuestra secuencia.  
 
-Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen las mejores cualidades para editar video sin tanta compresión como otros tipos de archivos. En el caso de imágenes pueden ser .jpg, .png y en el caso de sonidos .wav y .aif como mejores opciones.
+Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen las mejores cualidades para editar video sin tanta compresión como otros tipos de archivos. En el caso de imágenes pueden ser .jpg, .png y en el caso de sonidos .wav y .pcm como mejores opciones.
 
 1. Ir a **Panel de Proyecto**.
 2. Click derecho sobre el clip.
