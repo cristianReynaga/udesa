@@ -71,8 +71,30 @@ Para sintetizar deberíamos elegir los archivos que tengan:
 - .3gp 
 {:.text-red-300}
 
+**Paso 4. Secuencia, Edición y Exportación.**
 
-**Paso 4. El tratamiento de nuestra pieza.**
+En este paso tenemos que definir cómo será nuestro espacio de trabajo y que luego impactará en cómo exportaremos nuestros videos. Lo que en otros softwares se conoce como _canvas_ o _artboard_, en Premiere se llama _secuencia_. Para crear una secuencia que sirva para la proyección 270 del laboratorio y el simulador seguir las indicaciones:
+
+<span class="fs-3">
+[Ver tutorial "Crear secuencia en Premiere"](../tutoriales/PremierePro/crear-secuencia-premiere.html){: .btn target="_blank" }
+</span>
+
+Luego de crear nuestra secuencia comenzamos a editar insertando clips de video, sonido o imágenes en la línea de tiempo.
+
+<span class="fs-3">
+[Ver tutorial "Insertar medios en Premiere"](https://drive.google.com/file/d/1GQPk-bBxnimf5fLcSUnoSkHOG0N8NTTW/view?usp=sharing){: .btn target="_blank" }
+</span>
+
+
+El paso de exportar es convertir la línea de tiempo de nuestra secuencia en un archivo de video que pueda ser reproducido en cualquier reproductor multimedia (VLC, Quicktime), ya que nuestro proyecto de Premiere sólo puede ser visualizado instalando el programa. Hasta que no exportemos nuestro proyecto en un archivo de video no podremos compartirlo.
+
+Nuestra secuencia creada es de 6036px x 800px, pero es posible exportar con otras resoluciones. Si sabemos que una secuencia tendrá distintas exportaciones a distintas medidas, lo mejor es crear una secuencia con la mayor resolución posible ya que si hacemos exports más pequeños no perdemos resolución. En el caso contrario, si creamos una secuencia pequeña, cuando exportemos a mayor resolución vamos a perder definición.
+
+<span class="fs-3">
+[Ver tutorial "Exportar en Premiere"](../tutoriales/PremierePro/exportar-premiere.html){: .btn target="_blank" }
+</span>
+
+## Parte 2: El tratamiento de nuestra pieza.
 
 La etapa de edición es donde plasmamos nuestras ideas en conjunto con el material disponible para que sea único y lo más fiel posible a nuestras intenciones. Es importante saber que cada editor puede darle una marca personal distinta al mismo material ya que en esta etapa entran muchas decisiones en juego.  
 
@@ -80,7 +102,7 @@ Por ejemplo: paleta de color/es, ritmo, inclusión de gráficos, animaciones o t
 
 Para entender mejor estas diferencias veamos unos ejemplos:
 
-- [Unfold (fragmento) - Ryuichi Kurikawa](https://vimeo.com/160648305){:target="_blank"}
+- [Unfold (fragmento) - Ryuichi Kurokawa](https://vimeo.com/160648305){:target="_blank"}
 - [High Artic - United Visual Artists](https://www.youtube.com/watch?v=3xjJR1U14zo){:target="_blank"}
 - [Ship Map - Kiln](https://www.shipmap.org/){:target="_blank"}
 
@@ -96,58 +118,10 @@ Una forma sencilla de entender cómo nos relacionamos con un contenido es mencio
 
 Teniendo en cuenta estos tres ejemplos podemos pensar, antes de editar, qué quéremos contar y cómo utilizar el material que tenemos, o qué material es necesario producir para alcanzar un montaje audiovisual que refleje nuestra intención.
 
-**Paso 5. Crear secuencia.**
-
-En este paso tenemos que definir cómo será nuestro espacio de trabajo y que luego impactará en cómo exportaremos nuestros videos. Lo que en otros softwares se conoce como _canvas_ o _artboard_, en Premiere se llama _secuencia_. Para crear una secuencia que sirva para la proyección 270 del laboratorio y el simulador seguir las indicaciones:
-
-<span class="fs-3">
-[Ver tutorial "Crear secuencia en Premiere"](../tutoriales/PremierePro/crear-secuencia-premiere.html){: .btn target="_blank" }
-</span>
-
-
-**Paso 6. Insertar medios en línea de tiempo.**
-
-<span class="fs-3">
-[Ver tutorial "Insertar medios en Premiere"](https://drive.google.com/file/d/1GQPk-bBxnimf5fLcSUnoSkHOG0N8NTTW/view?usp=sharing){: .btn target="_blank" }
-</span>
-
-**Paso 7. Exportar secuencia.**
-
-El paso de exportar es convertir la línea de tiempo de nuestra secuencia en un archivo de video que pueda ser reproducido en cualquier reproductor multimedia (VLC, Quicktime), ya que nuestro proyecto de Premiere sólo puede ser visualizado instalando el programa. Hasta que no exportemos nuestro proyecto en un archivo de video no podremos compartirlo.
-
-Nuestra secuencia creada es de 6036px x 800px, pero es posible exportar con otras resoluciones. Si sabemos que una secuencia tendrá distintas exportaciones a distintas medidas, lo mejor es crear una secuencia con la mayor resolución posible ya que si hacemos exports más pequeños no perdemos resolución. En el caso contrario, si creamos una secuencia pequeña, cuando exportemos a mayor resolución vamos a perder definición.
-
-<span class="fs-3">
-[Ver tutorial "Exportar en Premiere"](../tutoriales/PremierePro/exportar-premiere.html){: .btn target="_blank" }
-</span>
-
-## Parte 2: Características técnicas de la imagen digital. Capítulo 1.
-
-
-
-  1. Formatos
-  2. Códecs
-  3. Resolución
-  4. Compresión
-  5. Cuadros por segundo
-
-<div class="video-container">
-    <iframe src="https://drive.google.com/file/d/13mLcJJo3GP-fnWMcIE5e60SfTz3XWtGx/preview" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</div>
-
-## Parte 3: Circuito de producción audiovisual: de la idea a la producción
-
-<div class="video-container">
-    <iframe src="https://drive.google.com/file/d/1i7h7xELv74lpKglxUQgZICGJJWtbL8bO/preview" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</div>
-
-
-## Parte 4: Ejercitación
+## Parte 3: Ejercitación
 
 Utilizando material propio y de los sitios recomendados para la descarga de imágenes y sonidos, realizar una composición audiovisual que será entregado en Drive a determinar. 
-Duración estimada: 1 hora.
+Duración estimada que implica realizar el ejercicio: 1 hora.
 
 **Especificaciones**
 
@@ -163,10 +137,11 @@ Duración estimada: 1 hora.
 - [ ] Incorporar al menos tres archivos de video distintos
 - [ ] Incorporar banda de sonido y al menos 1 efecto sonoro
 - [ ] Incorporar un título
-- [ ] Utilizar al menos dos tipos de transición
+- [ ] Utilizar al menos dos tipos de transiciones
 
 
 3. Exportar:
+- [ ] duración: 45 segundos
 - [ ] resolución: 1920 x 1080px
 - [ ] frame rate: 24 fps
 - [ ] relación de aspecto de píxeles: 1.0
@@ -186,9 +161,3 @@ Duración estimada: 1 hora.
 
 ## Lecturas recomendadas
 {: .no_toc }
-
-
-
-
-
-<!--<iframe src="https://drive.google.com/file/d/13mLcJJo3GP-fnWMcIE5e60SfTz3XWtGx/preview" width="100%" height="600"></iframe><br>-->

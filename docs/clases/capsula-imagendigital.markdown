@@ -29,4 +29,20 @@ Comparativa de resoluciones
 
 Ejemplo de Cuadros por segundo  
 
-Ejemplos de formato
+Ejemplos de formato  
+
+
+## Parte 2: Características técnicas de la imagen digital. Capítulo 1.
+
+
+
+  1. Formatos
+  2. Códecs
+  3. Resolución
+  4. Compresión
+  5. Cuadros por segundo
+
+<div class="video-container">
+    <iframe src="https://drive.google.com/file/d/13mLcJJo3GP-fnWMcIE5e60SfTz3XWtGx/preview" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>

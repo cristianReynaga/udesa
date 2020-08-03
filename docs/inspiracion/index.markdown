@@ -28,7 +28,7 @@ has_toc: false
 
 - [Material Design](https://material.io/design){:target="_blank"} - Framework de diseño de interfaces de Google  
 - [Processing](https://processing.org/exhibition/){:target="_blank"} - Librería en Java, Python y JS de programación interactiva
-- [Creative Applications](https://www.creativeapplications.net){:target="_blank"} - 
+- [Creative Applications](https://www.creativeapplications.net){:target="_blank"} - Repositorio de obras y aplicaciones experimentales interactivas
 - [OpenFrameworks](https://openframeworks.cc){:target="_blank"} - Librería en C++ de programación interactiva 
 - [Arduino](https://create.arduino.cc/projecthub){:target="_blank"} - Hardware y lenguaje de programación para electrónica interactiva  
 - [Touch Designer](https://derivative.ca/){:target="_blank"} - Software de programación interactiva  
@@ -36,10 +36,10 @@ has_toc: false
 
 ### Festivales y proyectos
 
-- [Festival OFFF](https://offf.barcelona/){:target="_blank"}  
-- [Sónar +D](http://sonarplusd.com){:target="_blank"}  
-- [Mapping Festival](https://2019.mappingfestival.com/){:target="_blank"}  
-- [Eyeo Festival](http://eyeofestival.com/){:target="_blank"}  
+- [Festival OFFF](https://offf.barcelona/){:target="_blank"} - Festival de diseño de Barcelona, uno de los más importantes del mundo
+- [Sónar +D](http://sonarplusd.com){:target="_blank"} - Evento lateral al Festival Sónar, en Barcelona, dedicado a la creatividad digital
+- [Mapping Festival](https://2019.mappingfestival.com/){:target="_blank"} - Festival de videomapping más importante del mundo
+- [Eyeo Festival](http://eyeofestival.com/){:target="_blank"} - Evento con base en New York con conferencias de referentes de arte, creatividad y diseño digital de todo el mundo.
   
 
 ### Conferencias
