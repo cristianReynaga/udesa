@@ -23,11 +23,11 @@ categoria: capsula
 
 https://www.provideocoalition.com/blend_modes_in_adobe_premiere_pro/
 
-### Parte 1: Análisis del uso de color en la imagen en movimiento
+### Parte 1: Análisis del uso de color
 
 - [Efectos del color en cine](https://vimeo.com/169046276){:target=_"blank"}
 - [Herramienta de paleta de color CANVA](https://www.canva.com/colors/color-wheel/){:target=_"blank"}
 - [Ejemplos de paleta de color en cine](https://www.cinema5d.com/film-color-schemes-cinematic-color-design/){:target="_blank"}
 
-### Parte 2: Introducción a herramientas de postproducción de color con Lumetri.
-### Parte 3: Ejercitación en Adobe Premiere con la herramienta Lumetri.
+### Parte 2: Introducción a postproducción de color con Lumetri.
+### Parte 3: Ejercitación
