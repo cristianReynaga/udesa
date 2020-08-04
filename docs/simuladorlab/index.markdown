@@ -7,9 +7,6 @@ has_children: false
 
 # Simulador 3D del Laboratorio
 
-
-<!--![alt text](/assets/simuladorlab.jpg "Simulador 3D del laboratorio")-->
-
 <iframe width="100%" height="400px" src="http://udesa.cristianreynaga.com/simuladorlab/2020/1semestre/artecontemporaneo/han.html" frameborder="0" allowfullscreen></iframe>
 
 

@@ -18,7 +18,7 @@ Análisis de la dimensión espacial y temporal en la creación de contenidos aud
 
 **Objetivo**  
 
-Diseñar 1 escena utilizando coordenadas, posiciones, escalas, ritmo y considerando el punto de vista del espectador con una intención narrativa figurativa o abstracta.
+Diseñar una escena utilizando coordenadas, posiciones, escalas, ritmo y considerando el punto de vista del espectador con una intención narrativa figurativa o abstracta.
 
 **Contenidos de la clase**  
 

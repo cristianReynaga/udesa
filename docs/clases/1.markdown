@@ -31,7 +31,7 @@ Crear una escena, inspeccionar el material a utilizar (propio o descargado), ins
 **Paso 1. Repaso al workflow de edición**
 
 <br>
-![alt text](../../../assets/workflow_premiere.jpg "worflow de edición")
+![alt text](../../../assets/images/workflow_premiere.jpg "worflow de edición")
 
 En este esquema vemos **4 etapas** típicas de la edición en cualquier editor de video. Luego de elegir qué videos, fotos o archivos sonoros queremos utilizar, los importamos en nuestro proyecto. La secuencia que debemos crear tiene que considerar el formato de salida: si queremos crear un video para una resolución específica, si es para redes sociales u otro formato. Los primeros parámetros a considerar de nuestro footage, y que impactará en la decisión sobre cómo configurar nuestra secuencia, son: **resolución, cuadros por segundo y formato**. 
 
