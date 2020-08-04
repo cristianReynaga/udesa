@@ -10,17 +10,21 @@ has_toc: false
 
 ### Descargas
 
-- Medidas en píxeles de laboratorio.<a href="../../assets/images/cotas_270.png" download> Descargar 📥</a> 
+Medidas en píxeles de laboratorio.<a href="../../assets/images/cotas_270.png" download> Descargar</a> 
 ![alt text](/assets/images/cotas_270.png "Medidas en píxeles del laboratorio")  
+<br>  
 
-<!-- - <a href="../../assets/grid_6036x800.png" download>Medidas en metros de laboratorio 📥</a> -->
+Grilla 6036px x 800px con coordenadas.<a href="../../assets/images/grid_6036x800_coordenadas.png" download> Descargar</a>        
+![alt text](/assets/images/grid_6036x800_coordenadas.png "Medidas en píxeles del laboratorio con coordenadas")  
+<br> 
 
-- Grilla 6036px x 800px con transparencia.<a href="../../assets/images/grid_6036x800.png" download> Descargar 📥</a>  
+Grilla 6036px x 800px con transparencia.<a href="../../assets/images/grid_6036x800.png" download> Descargar</a>  
 ![alt text](/assets/images/grid_6036x800.png "Medidas en píxeles del laboratorio")  
+<br>  
 
-- Grilla 6036px x 800px con colores por pared.<a href="../../assets/images/grid_6036x800_colores.png" download> Descargar 📥</a>  
+Grilla 6036px x 800px con colores por pared.<a href="../../assets/images/grid_6036x800_colores.png" download> Descargar</a>  
 ![alt text](/assets/images/grid_6036x800_colores.png "Medidas en píxeles del laboratorio")  
-
+<br>  
 
 ### Plataformas con videos y sonidos descargables Creative Commons
 

@@ -27,18 +27,44 @@ Diseñar una escena utilizando coordenadas, posiciones, escalas, ritmo y conside
 
 ---
 
-### Parte 1: Sistema de coordenadas digitales
-Coordenadas  
+### Parte 1: Sistema de coordenadas digitales  
 
-ejemplo en p5js?
+![alt text](/assets/images/coordenadas.png "Sistemas de coordenadas en dos y tres dimensiones")  
+
+1. Sistema de coordenadas bidimensional. Origen arriba-izquierda.
+2. Sistema de coordenadas bidimensional. Origen en el centro.
+3. Sistema de coordenadas tridimensional. Origen en el centro.
+<br> 
+
+**Ejemplo interactivo. Sistema de coordenadas bidimensional. Origen arriba-izquierda.**  
+En este ejemplo la posición en x e y se incrementa de 100 en 100 pixeles en un canvas de 700 x 400px.  
+_Utilizar los sliders para posicionar el cuadrado azul._  
+
+<div class="video-container">
+    <iframe src="https://editor.p5js.org/cristianreynaga/embed/fGs4H52Hr" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+
+**Ejemplo. Punto pivot en distintas ubicaciones locales..**  
+En este ejemplo se aplica la misma rotación a dos rectángulos iguales pero con distintos puntos pivot para mostrar las diferencias en las coordenadas locales.   
+
+<div class="video-container">
+    <iframe src="https://editor.p5js.org/cristianreynaga/embed/2WbwK9J_j" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
 
 
-### Parte 2: Sistema de coordenadas físicas
+### Parte 2: Coordenadas y posiciones en video 
+ 
+En cada programa el sistema de coordenadas y los puntos pivot pueden cambiar. En este ejemplo se observan cómo modificar las posiciones de X e Y, y la ubicación del punto pivot por default en Adobe Premiere.
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/pYAhDRtdYX4" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
 
-Foto del espacio
-Superposición de cotas
 
-### Parte 3: Posicionamiento de sonido, imagen y el rol del espacio  
+
+### Parte 3: Sonido, espacio y tiempo 
 
 análisis de ejemplos visuales, sonoros y audiovisuales).
 
