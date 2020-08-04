@@ -15,7 +15,10 @@ categoria: capsula
 
 ---
 
-<iframe style="width: 640px; height: 360px; overflow: hidden;"  scrolling="no" frameborder="0" src="https://editor.p5js.org/cristianreynaga/embed/NRrqOBY3w"></iframe>
+<div class="video-container">
+    <iframe src="https://editor.p5js.org/cristianreynaga/embed/NRrqOBY3w" height="406" width="720" frameborder="0">
+    </iframe>
+</div>
 
 
 https://www.provideocoalition.com/blend_modes_in_adobe_premiere_pro/
