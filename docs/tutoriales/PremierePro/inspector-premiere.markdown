@@ -11,35 +11,22 @@ has_children: false
 # Inspector de propiedades de Adobe Premiere
 {: .no_toc }
 
-![alt text](/assets/tutoriales/portada_mediainfo.png "Inspector Media Info")
+![alt text](/assets/tutoriales/portada_inspectorpremiere.png "Inspector Adobe Premiere")
 
-Las secuencias son los contenedores de nuestras líneas de tiempo. Allí es donde realizaremos la edición insertando videos, audios e imágenes. También incorporaremos transiciones, efectos y animaciones.
-  
+Adobe Premiere ofrece la herramienta de Inspección que nos facilita el análisis de nuestros archivos de imagen y sonido.  
 
-## Contenidos
-{: .no_toc }
+**Paso 1. Inspeccionar el material**
 
-- TOC
-{:toc}
+La mejor forma de conocer nuestros assets es visualizar sus Propiedades una vez importados en Adobe Premiere. Tenemos que conocer la **resolución, los cuadros por segundo y el formato** de cada uno de ellos para elegir la mejor configuración para nuestra secuencia.  
 
-## Parte 1: Cómo crear una secuencia en Premiere Pro
+Es importante elegir los formatos de video **.mp4 o .mov** ya que son los que tienen las mejores cualidades para editar video sin tanta compresión como otros tipos de archivos. En el caso de imágenes pueden ser **.jpg y .png** y en el caso de sonidos **.wav y .pcm** como mejores opciones.
 
-
-Para crear una secuencia que sea compatible para la proyección 270 y para el simulador lo mejor es utilizar los siguientes parámetros:
-
-1. Ir a **Panel de Proyecto**
-2. Click derecho sobre cualquier lugar del panel.
-3. Elegir la opción **Nuevo ítem/Secuencia** y veremos el panel de crear secuencia.
-4. Ir a la segunda solapa **Settings*.
-5. Modificar los valores:
-- [ ] Resolución: 6036 x 800px
-- [ ] Frame rate: 24 fps
-- [ ] Relación de aspecto de píxeles: 1.0
-- [ ] Campos: video progresivo
-- [ ] Sample rate de audio: 48000Hz  
+1. Ir a **Panel de Proyecto**.
+2. Click derecho sobre el clip.
+3. Elegir la opción **Propiedades** y allí veremos la ubicación del archivo, el formato (.mp4, .mov, etc.), el tamaño de la imagen (resolución), cuadros por segundo y el códec.
 
 <div class="video-container">
-    <iframe src="https://www.youtube.com/embed/EOvCsHhfBdo" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    <iframe src="https://www.youtube.com/embed/SL0sBeyhI4s" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
 

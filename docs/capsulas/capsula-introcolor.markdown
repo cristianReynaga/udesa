@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Color grading'
+title: Introducción a color digital
 nav_exclude: true
 categoria: capsula
 ---
@@ -45,10 +45,8 @@ categoria: capsula
 - [Efectos del color en cine](https://vimeo.com/169046276){:target=_"blank"}
 - [Ejemplos de paletas de color en cine](https://www.cinema5d.com/film-color-schemes-cinematic-color-design/){:target="_blank"}
 
-### Parte 2: Introducción a postproducción de color con Lumetri.
 
-
-### Parte 3: Herramientas on line
+### Parte 2: Herramientas on line
 
 **Creación de paletas de color**  
 

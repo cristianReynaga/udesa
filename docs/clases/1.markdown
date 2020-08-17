@@ -37,28 +37,12 @@ Crear una escena, inspeccionar el material a utilizar (propio o descargado), ins
 
 En este esquema vemos **4 etapas** típicas de la edición en cualquier editor de video. Luego de elegir qué videos, fotos o archivos sonoros queremos utilizar, los importamos en nuestro proyecto. La secuencia que debemos crear tiene que considerar el formato de salida: si queremos crear un video para una resolución específica, si es para redes sociales u otro formato. Los primeros parámetros a considerar de nuestro footage, y que impactará en la decisión sobre cómo configurar nuestra secuencia, son: **resolución, cuadros por segundo y formato**. 
 
-**Paso 2. Inspeccionar el material**
+**Paso 2. Inspeccionar nuestro material (footage)**  
 
-La mejor forma de conocer nuestros assets es visualizar sus Propiedades una vez importados en Adobe Premiere. Tenemos que conocer la **resolución, los cuadros por segundo y el formato** de cada uno de ellos para elegir la mejor configuración para nuestra secuencia.  
+Antes de crear una secuenca y comenzar a editar es necesario conocer en detalle el material disponible o que necesitamos conseguir. Adobe Premiere nos ofrece un Inspector que nos da esos detalles. Existe otra herramienta, gratuita y muy fácil de instalar, que nos ofrece la misma funcionalidad, con mayor detalle y sin tener que abrir Premiere, agilizando esta tarea de revisar material.
 
-Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen las mejores cualidades para editar video sin tanta compresión como otros tipos de archivos. En el caso de imágenes pueden ser .jpg, .png y en el caso de sonidos .wav y .pcm como mejores opciones.
-
-Opción 1: Inspector de Adobe Premiere  
-
-1. Ir a **Panel de Proyecto**.
-2. Click derecho sobre el clip.
-3. Elegir la opción **Propiedades** y allí veremos la ubicación del archivo, el formato (.mp4, .mov, etc.), el tamaño de la imagen (resolución), cuadros por segundo y el códec (ya ahondaremos en esto).
-
-<div class="video-container">
-    <iframe src="https://www.youtube.com/embed/SL0sBeyhI4s" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-    </iframe>
-</div>
-
-Opción 2: Media Info  
-
-1. Ir a **Panel de Proyecto**.
-2. Click derecho sobre el clip.
-3. Elegir la opción **Propiedades** y allí veremos la ubicación del archivo, el formato (.mp4, .mov, etc.), el tamaño de la imagen (resolución), cuadros por segundo y el códec (ya ahondaremos en esto).
+- [Opción 1: Tutorial Inspector de Adobe Premiere](../tutoriales/PremierePro/inspector-premiere.html){: .target="_blank"}
+- [Opción 2: Tutorial Media Info](tutoriales/Oras-Apps/mediainfo.html){: .target="_blank"}
 
 Teniendo inspeccionado todo nuestro footage podremos saber si será necesario escalar la resolución o si algún material tiene una resolución muy inferior, o es de un formato inadecuado para descartarlo.  
 
