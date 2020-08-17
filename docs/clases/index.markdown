@@ -2,6 +2,7 @@
 layout: default
 title: Clases
 nav_order: 2
+has_children: true
 ---
 
 # Clases
@@ -13,14 +14,12 @@ Las clases requieren de encuentros en vivo ya que incluyen:
 - la discusión grupal sobre referentes y conceptos
 - la puesta en común de dudas y de resoluciones de los ejercicios propuestos durante el seminario
 
-## Índice de encuentros  
+<!-- ## Índice de encuentros  
 
 <ul class="pages">
   {% for page in site.pages %}
-  {% if page.categoria == "clases" %}
-
-      <!-- <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li> -->
-       <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-   {% endif %}
-      {% endfor %}
-</ul>
+    {% if page.categoria == "clases" %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li> 
+    {% endif %}
+  {% endfor %}
+</ul> -->

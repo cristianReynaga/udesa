@@ -8,7 +8,7 @@ parent: Tutoriales
 has_toc: false
 ---
 
-## Resolume Arena
+# Resolume Arena
 
 <ul class="pages">
   {% for page in site.pages %}

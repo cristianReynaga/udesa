@@ -1,7 +1,9 @@
 ---
 layout: default
-title: 2. Composición, espacio y tiempo
-nav_exclude: true
+title: Composición
+nav_exclude: false
+nav_order: 2
+parent: Clases
 categoria: clases
 ---
 

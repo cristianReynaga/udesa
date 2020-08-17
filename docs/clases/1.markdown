@@ -1,7 +1,9 @@
 ---
 layout: default
-title: 1. Edición y producción
-nav_exclude: true
+title: Edición y producción
+nav_exclude: false
+nav_order: 1
+parent: Clases
 categoria: clases
 ---
 
@@ -41,6 +43,8 @@ La mejor forma de conocer nuestros assets es visualizar sus Propiedades una vez 
 
 Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen las mejores cualidades para editar video sin tanta compresión como otros tipos de archivos. En el caso de imágenes pueden ser .jpg, .png y en el caso de sonidos .wav y .pcm como mejores opciones.
 
+Opción 1: Inspector de Adobe Premiere  
+
 1. Ir a **Panel de Proyecto**.
 2. Click derecho sobre el clip.
 3. Elegir la opción **Propiedades** y allí veremos la ubicación del archivo, el formato (.mp4, .mov, etc.), el tamaño de la imagen (resolución), cuadros por segundo y el códec (ya ahondaremos en esto).
@@ -49,6 +53,12 @@ Es importante elegir los formatos de video .mp4 o .mov ya que son los que tienen
     <iframe src="https://www.youtube.com/embed/SL0sBeyhI4s" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
+
+Opción 2: Media Info  
+
+1. Ir a **Panel de Proyecto**.
+2. Click derecho sobre el clip.
+3. Elegir la opción **Propiedades** y allí veremos la ubicación del archivo, el formato (.mp4, .mov, etc.), el tamaño de la imagen (resolución), cuadros por segundo y el códec (ya ahondaremos en esto).
 
 Teniendo inspeccionado todo nuestro footage podremos saber si será necesario escalar la resolución o si algún material tiene una resolución muy inferior, o es de un formato inadecuado para descartarlo.  
 

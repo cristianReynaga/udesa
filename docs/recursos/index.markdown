@@ -10,25 +10,22 @@ has_toc: false
 
 ### Descargas
 
-Medidas en píxeles de laboratorio.<a href="../../assets/images/cotas_270.png" download> Descargar</a> 
-![alt text](/assets/images/cotas_270.png "Medidas en píxeles del laboratorio")  
-<br>  
-
-Grilla 6036px x 800px con coordenadas.<a href="../../assets/images/grid_6036x800_coordenadas.png" download> Descargar</a>        
-![alt text](/assets/images/grid_6036x800_coordenadas.png "Medidas en píxeles del laboratorio con coordenadas")  
-<br> 
-
-Grilla 6036px x 800px con transparencia.<a href="../../assets/images/grid_6036x800.png" download> Descargar</a>  
-![alt text](/assets/images/grid_6036x800.png "Medidas en píxeles del laboratorio")  
-<br>  
-
-Grilla 6036px x 800px con colores por pared.<a href="../../assets/images/grid_6036x800_colores.png" download> Descargar</a>  
-![alt text](/assets/images/grid_6036x800_colores.png "Medidas en píxeles del laboratorio")  
-<br>  
+- <a href="../../assets/images/cotas_270.png" download>Medidas en píxeles de pantalla 270</a>  
+<!-- ![alt text](/assets/images/cotas_270.png "Medidas en píxeles del laboratorio")  
+<br> -->  
+- <a href="../../assets/images/grid_6036x800_coordenadas.png" download>Grilla 6036px x 800px con coordenadas por pared</a>  
+<!-- ![alt text](/assets/images/grid_6036x800_coordenadas.png "Medidas en píxeles del laboratorio con coordenadas")  
+<br> --> 
+- <a href="../../assets/images/grid_6036x800.png" download>Grilla 6036px x 800px con transparencia</a>  
+<!-- ![alt text](/assets/images/grid_6036x800.png "Medidas en píxeles del laboratorio")  
+<br>   -->
+- <a href="../../assets/images/grid_6036x800_colores.png" download>Grilla 6036px x 800px con colores por pared</a>  
+<!-- ![alt text](/assets/images/grid_6036x800_colores.png "Medidas en píxeles del laboratorio")  
+<br>  --> 
 
 ### Plataformas con videos y sonidos descargables Creative Commons
 
-Sound track/Sound FX
+Sound Track/Sound FX
 
 - [Freesound](https://freesound.org){:target="_blank"}
 - [Jamendo](https://www.jamendo.com){:target="_blank"}
@@ -49,3 +46,7 @@ Videos
 - [Blender](https://www.blender.org/){:target="_blank"} - Suite de creación 3D
 - [Milanote](https://milanote.com/){:target="_blank"} - Herramienta online para crear mapas de contenidos colaborativos
 - [Figma](https://www.figma.com/){:target="_blank"} - Herramienta online y desktop para diseño UI
+
+### Apps para filmación  
+
+- [Opciones de apps para iOS y Android](./recursos-apps-filmacion){:target="_blank"}

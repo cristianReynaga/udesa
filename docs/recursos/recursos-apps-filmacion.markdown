@@ -2,14 +2,14 @@
 layout: default
 title: 'Apps para filmación'
 nav_exclude: true
-categoria: capsula
+categoria: recursos
 ---
 
 # {{ page.title }}
 {: .no_toc }  
 
 
-**Contenidos de la cápsula**  
+**Contenidos**  
 
 - TOC
 {:toc}
@@ -171,15 +171,15 @@ Filmado con:
 - Manfrotto Compact Light Tripod
 
 Software:  
-Da Vinci Resolve 15
+- Da Vinci Resolve 15
 
 
 ## Criterios técnicos a tener en cuenta
 
 Como indicaba en la introducción, los criterios técnicos más importantes del video final tienen que ser decididos en el momento de la filmación y deben ser consistentes a lo largo de todo el proyecto.  
 
-Sugiero considerar:
-1 La resolución: si va a ser una pieza 4k, fullHD, o si utilizamos una relación de aspecto vertical o cuadrada
-2 El _frame rate_ (FPS) o cuadros por segundo Si vamos a utilizar distintas grabaciones de distintas cámaras, es importante ajustar manualmente el frame rate adecuado para que entre todas las cámaras/smartphones tengamos el mismo valor Decidir si se graba a 24, 25, 30 o más cuadros por segundo
-3 El balance de blancos es vital para que la edición no sea un dolor de cabezas y podamos ajustar desde el momento de la grabación el perfil de blancos En esto es importante ser consistentes a lo largo del proyecto
-4 La exposición y obturación de la cámara son fundamentales para generar el registro que deseamos en términos de calidad y en términos de expresividad
+Sugiero considerar:  
+1. La resolución: si va a ser una pieza 4k, fullHD, o si utilizamos una relación de aspecto vertical o cuadrada.
+2. El _frame rate_ (FPS) o cuadros por segundo Si vamos a utilizar distintas grabaciones de distintas cámaras, es importante ajustar manualmente el frame rate adecuado para que entre todas las cámaras/smartphones tengamos el mismo valor Decidir si se graba a 24, 25, 30 o más cuadros por segundo.
+3. El balance de blancos es vital para que la edición no sea un dolor de cabezas y podamos ajustar desde el momento de la grabación el perfil de blancos En esto es importante ser consistentes a lo largo del proyecto.
+4. La exposición y obturación de la cámara son fundamentales para generar el registro que deseamos en términos de calidad y en términos de expresividad.
