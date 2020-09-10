@@ -29,10 +29,10 @@ El seminario aporta al estudiante las herramientas para la creación de experien
 Todo el seminario se basa en la incorporación y aceleración de técnicas y el desarrollo de criterios sonovisuales orientados a la composición. Para esto se abordan tres modalidades:  
 
 ### Encuentros sincrónicos: "El qué y el para qué".  
-Encuentros virtuales de 1:40h cada uno (3 o 4 encuentros según el Taller) donde se ejercitan procesos de trabajo con las herramientas de edición y postproducción de video, gráfica y sonido. 
+Encuentros virtuales de 1:40h cada uno (3, 4 o 5 encuentros según el Taller) donde se ejercitan procesos de trabajo con las herramientas de edición y postproducción de video, gráfica y sonido. 
 
 ### Contenidos asincrónicos: "El cómo".  
-A lo largo del seminario se comparten videos, tutoriales y consignas para incorporar habilidades y desarrollar aptitudes en el uso de herramientas y la gestión de archivos.  
+A lo largo del seminario se comparten cápsulas, recursos y tutoriales para incorporar habilidades y desarrollar aptitudes en el uso de herramientas y la gestión de archivos.  
 
 ### Ejercitaciones remotas: "La forma de mejorar".  
 Se asignan breves ejercitaciones con entregas semanales para ejercitar las aptitudes de los contenidos asincrónicos y los criterios conversados en los encuentros sincrónicos.  

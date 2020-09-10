@@ -6,7 +6,7 @@ has_children: true
 has_toc: false
 ---
 
-# Tutoriales 2 
+# Tutoriales 
 
 ## Premiere
 
@@ -37,6 +37,18 @@ has_toc: false
 <ul class="pages">
   {% for page in site.pages %}
   {% if page.tutorial == "Resolume" %}
+
+      <!-- <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li> -->
+       <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+   {% endif %}
+      {% endfor %}
+</ul>
+
+## Otras Aplicaciones
+
+<ul class="pages">
+  {% for page in site.pages %}
+  {% if page.tutorial == "Otras" %}
 
       <!-- <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li> -->
        <li><a href="{{ page.url }}">{{ page.title }}</a></li>

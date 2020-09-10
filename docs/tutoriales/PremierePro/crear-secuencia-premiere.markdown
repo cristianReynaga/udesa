@@ -42,6 +42,3 @@ Para crear una secuencia que sea compatible para la proyección 270 y para el si
     <iframe src="https://www.youtube.com/embed/EOvCsHhfBdo" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
     </iframe>
 </div>
-
-
-
