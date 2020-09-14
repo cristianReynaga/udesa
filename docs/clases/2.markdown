@@ -10,7 +10,7 @@ categoria: clases
 # Clase 2. Composición, espacio y tiempo
 {: .no_toc }
 
-Análisis de la dimensión espacial y temporal en la creación de contenidos audiovisuales. Encuentro sincrónico de 1:40h de duración.  
+En esta clase analizamos el rol de la dimensión espacial y temporal en la creación de contenidos audiovisuales. Encuentro sincrónico de 1:40h de duración.  
 
 **Requerimientos**
 {: .no_toc }
@@ -29,7 +29,10 @@ Diseñar una escena utilizando coordenadas, posiciones, escalas, ritmo y conside
 
 ---
 
-### Parte 1: Sistemas de coordenadas globales   
+### Parte 1: Sistemas de coordenadas  
+
+Para entender cómo disponer elementos, tanto en un espacio virtual como en uno real, es necesario entender...
+**Coordenadas globales**
 
 **Coordenadas 2D**
 ![alt text](/assets/images/coordenadas.png "Sistemas de coordenadas en dos dimensiones")  
@@ -52,11 +55,12 @@ _Utilizar los sliders para posicionar el cuadrado azul._
     </iframe>
 </div>
 
-### Parte 2: Sistemas de coordenadas locales
+**Coordenadas locales**  
+
 Como vimos en el ejemplo anterior, las coordenadas globales determina la ubicación en el espacio de toda la escena, pero cada elemento también tiene su propio sistema de coordenadas. A estas se las denomina **coordenadas locales**.
 
 **Punto pivot en distintas ubicaciones locales.**  
-En este caso se aplica la misma rotación a dos rectángulos iguales pero con distintos puntos pivot para mostrar las diferencias en las coordenadas locales.   
+En este caso se aplica una rotación a dos rectángulos idénticos pero con el punto de pivot en distintas coordenadas para mostrar las diferencias y la importancia de utilizar correctamente las coordenadas locales.   
 
 <div class="video-container">
     <iframe src="https://editor.p5js.org/cristianreynaga/embed/2WbwK9J_j" height="406" width="720" rel="0" frameborder="0">

@@ -23,7 +23,7 @@ email: creynaga@udesa.edu.ar
 description: >- # this means to ignore newlines until "baseurl:"
   Sitio del Seminario de Profundización Tecnológica Audiovisual Inmersivo de la Carrera de Diseño de la Universidad de San Andrés. Profesor Cristian Reynaga.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://udesa.cristianreynaga.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "//udesa.cristianreynaga.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _creynaga
 github_username:  cristianreynaga
 

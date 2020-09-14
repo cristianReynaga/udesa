@@ -15,12 +15,12 @@ Introducción al proceso de edición en Adobe Premiere y análisis de referencia
 **Requerimientos**
 {: .no_toc }
 
-- Instalar Adobe Premiere y [Media Info](https://mediaarea.net/en/MediaInfo){:target="_blank"} en una laptop o desktop  
-- Ver y ejercitar con los tutoriales de [Adobe Premiere fundamentales](../tutoriales/PremierePro/fundamentales.html). Tiempo estimado: 30 minutos.  
+- Tener instalado Adobe Premiere y [Media Info](https://mediaarea.net/en/MediaInfo){:target="_blank"} en una laptop o desktop  
+- Ver los tutoriales de [Adobe Premiere fundamentales](../tutoriales/PremierePro/fundamentales.html). Tiempo estimado: 30 minutos.  
 
-**Objetivo**  
+**Objetivo de la clase**  
 
-Crear una escena, inspeccionar el material a utilizar (propio o descargado), insertar en línea de tiempo y exportar.
+Repasar el proceso de producción audiovisual, inspeccionar el material de video y sonido a utilizar (propio o descargado), y crear un proyecto para exportarlo en formato video.
 
 **Contenidos de la clase**  
 
@@ -67,7 +67,7 @@ Para sintetizar deberíamos elegir los archivos que tengan:
 
 **Paso 4. Secuencia, Edición y Exportación.**
 
-En este paso tenemos que definir cómo será nuestro espacio de trabajo y que luego impactará en cómo exportaremos nuestros videos. Lo que en otros softwares se conoce como _canvas_ o _artboard_, en Premiere se llama _secuencia_. Para crear una secuencia que sirva para la proyección 270 del laboratorio y el simulador seguir las indicaciones:
+En este paso tenemos que definir cómo será nuestro espacio de trabajo y que luego impactará en cómo exportaremos nuestros videos. Lo que en otros softwares se conoce como _canvas_ o _artboard_, en Premiere se llama _secuencia_. Para crear una secuencia seguir las indicaciones:
 
 <span class="fs-3">
 [Ver tutorial "Crear secuencia en Premiere"](../tutoriales/PremierePro/crear-secuencia-premiere.html){: .btn target="_blank" }
@@ -79,6 +79,10 @@ Luego de crear nuestra secuencia comenzamos a editar insertando clips de video, 
 [Ver tutorial "Insertar medios en Premiere"](https://drive.google.com/file/d/1GQPk-bBxnimf5fLcSUnoSkHOG0N8NTTW/view?usp=sharing){: .btn target="_blank" }
 </span>
 
+<span class="fs-3">
+[Ver tutorial "Insertar clips en línea de tiempo en Premiere"](https://drive.google.com/file/d/1hrVXd59DG1VMlorYAz6yqmNO5EBJSY4G/view){: .btn target="_blank" }
+</span>
+
 
 El paso de exportar es convertir la línea de tiempo de nuestra secuencia en un archivo de video que pueda ser reproducido en cualquier reproductor multimedia (VLC, Quicktime), ya que nuestro proyecto de Premiere sólo puede ser visualizado instalando el programa. Hasta que no exportemos nuestro proyecto en un archivo de video no podremos compartirlo.
 
@@ -88,11 +92,11 @@ Nuestra secuencia creada es de 6036px x 800px, pero es posible exportar con otra
 [Ver tutorial "Exportar en Premiere"](../tutoriales/PremierePro/exportar-premiere.html){: .btn target="_blank" }
 </span>
 
-## Parte 2: El tratamiento de nuestra pieza.
+## Parte 2: El tratamiento de una pieza  
 
-La etapa de edición es donde plasmamos nuestras ideas en conjunto con el material disponible para que sea único y lo más fiel posible a nuestras intenciones. Es importante saber que cada editor puede darle una marca personal distinta al mismo material ya que en esta etapa entran muchas decisiones en juego.  
+La etapa de edición es donde plasmamos nuestras ideas en conjunto con el material disponible para que sea único y lo más fiel posible a nuestras intenciones. Es importante saber que cada persona puede darle una marca personal única al mismo material ya que se combinan criterios estéticos, narrativos, conceptuales y hasta políticos.  
 
-Por ejemplo: paleta de color/es, ritmo, inclusión de gráficos, animaciones o textos, banda de sonido, efectos de sonido, voz en off, actuación, material filmado o totalmente animado, etc. Es importante también tener en cuenta que hay distintos tipos de audiovisuales. Los que son narrativos como la mayoría de las películas de cine o series de TV, otros más abstractos y expresivos, que pueden ser considerados de videocreación o de autor, y otros que tienen una función comunicacional explícita (una publicidad, una visualización de datos), entre otros tipos posibles.  
+Algunos de los elementos que cobran vida según cada creador son paleta/s de color/es, ritmo, inclusión de gráficos, animaciones o textos, banda de sonido, efectos de sonido, voz en off, actuación, material filmado o totalmente animado. Es importante tener en cuenta que hay distintos tipos de audiovisuales. Los que son narrativos como la mayoría de las películas de cine o series de TV, otros más abstractos y expresivos, que pueden ser considerados de videocreación o de autor, y otros que tienen una función comunicacional explícita (una publicidad, una visualización de datos), entre algunos de los muchos tipos existentes.  
 
 Para entender mejor estas diferencias veamos unos ejemplos:
 
@@ -101,20 +105,28 @@ Para entender mejor estas diferencias veamos unos ejemplos:
 - [Ship Map - Kiln](https://www.shipmap.org/){:target="_blank"}
 
 
-Preguntas:
-- Cómo describiríamos cada pieza en una frase?
-- Qué encontramos de diferente?
-- Qué función tiene cada pieza?
-- Qué función cumple en cada una la imagen, el sonido, la escala de lo que vemos y el ritmo?
-- Cómo se interpela al espectador?
+Ejercicio en grupos:
+- ¿Cómo describirías a cada pieza en una frase?
+- ¿Qué encontrasde diferente y qué de similar?
+- ¿Qué función tiene cada pieza para vos?
+- ¿Qué función cumple en cada una la imagen, el sonido, la escala de lo que vemos y el ritmo?
+- ¿Cómo te sentiste luego?
 
-Una forma sencilla de entender cómo nos relacionamos con un contenido es mencionar los sentidos de nuestro cuerpo que se activan o que buscan ser activados por cada una. En cuáles se busca activar **la escucha, la visión, el movimiento, el tacto**?
+Todas las respuestas son válidas, no hay error en la forma de apreciar cada pieza a la que nos encontremos. Con el tiempo y el análisis reflexivo podremos tener respuestas cada vez más precisas y complejas, pero la forma de percibir que tenga cada uno no tiene nada de erróneo.
 
-Teniendo en cuenta estos tres ejemplos podemos pensar, antes de editar, qué quéremos contar y cómo utilizar el material que tenemos, o qué material es necesario producir para alcanzar un montaje audiovisual que refleje nuestra intención.
+Otra forma de analizar la relación que nos propone una pieza o contenido es deternos a pensar qué sentidos de nuestro cuerpo se activan o buscan ser activados. ¿En cuáles se busca activar **la escucha, la visión, el movimiento, el tacto**?
+
+Teniendo en cuenta estos tres ejemplos y lo que todos hemos compartido, es hora pensar **antes de editar** qué quéremos contar y cómo utilizar el material que tenemos, o qué material es necesario producir para alcanzar un montaje audiovisual que refleje nuestra intención.
 
 ## Parte 3: Ejercitación
 
-Utilizando material propio y de los sitios recomendados para la descarga de imágenes y sonidos, realizar una composición audiovisual que será entregado en Drive a determinar. 
+Utilizando material propio y de los sitios recomendados para la descarga de imágenes y sonidos, realizar una composición audiovisual que será entregado en una carpeta Drive a determinar. 
+
+Criterios a tener en cuenta:
+- el formato es "wide" (ya profundizaremos sobre esto), por lo tanto tener en cuenta el uso de la superficie. Pueden pensarlo para se reproduzca en una computadora, o smartphone y que tenga una característica móvil. Incluso pueden pensarlo con instrucciones para que lo veamos caminando, ubicando el teléfono en disintas posiciones y distancias de nuestro cuerpo
+- intenten usar bandas sonoras que no sean "música", intenten que lo sonoro se integre a lo visual como textura, ambiente y que no sea 100% figurativo
+- en este primer ejercicio no se vuelvan locos con transiciones, efectos, traten de mantener un montaje simple pero que los criterios conceptuales y narrativos sean bien definidos (sin que todo resulte explícito!)
+
 Duración estimada que implica realizar el ejercicio: 1 hora.
 
 **Especificaciones**
@@ -147,11 +159,11 @@ Duración estimada que implica realizar el ejercicio: 1 hora.
 - [ ] Audio Channels: Stereo
 - [ ] Audio Quality: High
 - [ ] Audio Bitrate [kbps]: 320
-- [ ] **Nombre de archivo: apellidoNombre.mp4**
+- [ ] **Nombre de archivo: apellido_nombre_clase1.mp4**
 
-## Visualización en clase
+<!-- ## Visualización en clase
 {: .no_toc }
 
 
 ## Lecturas recomendadas
-{: .no_toc }
+{: .no_toc } -->
