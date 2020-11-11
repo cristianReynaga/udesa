@@ -78,16 +78,47 @@ En cada programa el sistema de coordenadas y los puntos pivot pueden cambiar. En
 
 
 
-### Parte 4: Sonido, espacio y tiempo 
+### Parte 4: Composición audiovisual
 
-análisis de ejemplos visuales, sonoros y audiovisuales).
+**The Source, Charity Water**  
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/nlVIsVfWwS4" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+<br>
+
+**Stonemilker, Bjork**
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/gQEyezu7G20" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+<br>
+
+**The Jungle Book 360 Experience**
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/TtOvDWvAfK4" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+<br>
+
+**Beyond the map. A day in a favela**
+
+<div class="video-container">
+    <iframe src="https://www.youtube.com/embed/GsUa1i5QQ0g" height="406" width="720" modestbranding="1" rel="0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe>
+</div>
+<br>
+
+
 
 Legibilidad
 Escalas
 Strokes
 Efectos, sombras
-Ubicación de parlantes
-
+Espacialización sonora
 
 ### Parte 5: La dimensión temporal
 
@@ -95,22 +126,6 @@ El ritmo en la narrativa
 Brackage
 Montaje paralelo
 Elipsis
-Introducción a la animación  
-
-
-
-[**Ver simulador**](http://udesa.cristianreynaga.com/simulador_sustentabilidad_r115/){:target="_blank"}
-
-
-## Visualización en clase
-{: .no_toc }
-
-
-## Lecturas recomendadas
-{: .no_toc }
-
-
-
 
 
 ## Visualización en clase
