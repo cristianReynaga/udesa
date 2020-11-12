@@ -8,7 +8,7 @@ has_toc: false
 
 # Tutoriales 
 
-## Premiere
+## Premiere Pro
 
 <ul class="pages">
   {% for page in site.pages %}
@@ -20,7 +20,7 @@ has_toc: false
       {% endfor %}
 </ul>
 
-## After  
+## After Effects 
 
 <ul class="pages">
   {% for page in site.pages %}
@@ -44,7 +44,7 @@ has_toc: false
       {% endfor %}
 </ul>
 
-## Otras Aplicaciones
+## Otras aplicaciones
 
 <ul class="pages">
   {% for page in site.pages %}

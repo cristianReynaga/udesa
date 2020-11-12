@@ -14,7 +14,7 @@ has_toc: false
   {% for page in site.pages %}
   {% if page.tutorial == "Premiere" %}
 
-      <!-- <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li> -->
+       <!-- <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>  -->
        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
    {% endif %}
       {% endfor %}
