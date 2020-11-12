@@ -54,4 +54,39 @@ En el siguiente video vemos la misma animación de un círculo con diferentes cu
     </iframe>
 </div>
 
-## Parte 3: Formatos y códecs
+## Parte 3: Formatos, contenedores y códecs
+
+Es muy habitual confundirnos entre formatos, códecs y contenedores. Según la plataforma de reproducción, y el hardware de grabación/filmación, tendremos que elegir las opciones más adecuadas para que nuestros archivos se exporten de la forma más eficiente y con el menor tamaño posible.  
+
+**¿Qué es un códec?**
+
+El códec (palabra que viene de **cód**ificador/**dec**odificador) es un software o hardware capaz de procesar información, en este caso, video. Especificamente, comprimen y descomprimen los datos. Existen muchos en la actualidad, y en algunos casos muchos programas de reproducción incluyen, al instalarlos, códecs compatibles.
+
+Algunos de los códecs más conocidos son:
+
+H264  
+Es el códec más usado en la actualidad. Incluso muchos dispositivos (smartphones por ejemplo) están diseñados para grabar y reproducir en este códec. Tiene una gran performance pero una limitación importante: sólo es posible reproducir videos de hasta 4096px x 2048px de resolución.
+
+DXV  
+Creado por la empresa Resolume para reproducir videos con la máxima compatibilidad para el software Resolume Arena. No es compatible con otros reproductores de video, por lo tanto, si tenemos videos en DXV sólo podremos verlos con aplicaciones de Resolume.
+
+PhotoJPEG  
+Es un códec que no tiene pérdida de calidad, almacena cada uno de los fotogramas como si se tratase de fotografías. Es ideal para su procesamiento en tiempo real en softwares de VJ ya que cada frame es un keyframe.
+
+
+**¿Qué es un contenedor?**
+
+Algunos de los contenedores más conocidos son:
+
+AVI  
+Es uno de los contenedores más famosos y antiguos. Compatible con muchísimos códecs, pero que en la actualidad no es tan recomendado su uso.
+
+MP4  
+Es el formato más conocido. Compatible con H264 y MPEG-4 (por lo tanto su resolución máxima es de 4096px x 2048px). Es el stándard para web (YouTube, Vimeo, Instagram).
+
+MOV  
+Es muy común entenderlo como el stándar de Apple, ya que todos sus dispositivos graban y almacenan en este formato. Pueden contener códecs con gran calidad (DXV o ProRes por ejemplo) y es uno de los ideales para almacenar videos de muchísimo tamaño y calidad.
+
+## Parte 4: Conclusiones
+
+En proyectos que se verán en web, o que tienen que ser videos de fácil reproducción, usar h264 y MP4. En los casos donde la reproducción requiera máxima calidad, usar ProRes y MOV. Si necesitamos utilizar software de VJ (Resolume Arena por ejemplo), elegir DXV o PhotoJPEG y MOV.

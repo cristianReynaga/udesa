@@ -49,4 +49,4 @@ Videos
 
 ### Apps para filmación  
 
-- [Opciones de apps para iOS y Android](./recursos-apps-filmacion){:target="_blank"}
+- [Opciones de apps para iOS y Android](./recursos-apps-filmacion.html){:target="_blank"}
